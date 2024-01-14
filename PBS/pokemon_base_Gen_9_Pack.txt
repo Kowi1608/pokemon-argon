@@ -3081,3 +3081,2018 @@ Category = Mask
 Pokedex = This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.
 Generation = 9
 Flags = Legendary,TeraType_GRASS
+#--------------------------------------------
+#---------------------------------------------------
+#--------------------------------------------
+#---------------------------------------------------
+[HANEBOZU]
+Name = Purreed
+Types = GRASS
+BaseStats = 48,42,38,69,60,51
+Abilities = OVERGROW
+HiddenAbilities = FAIRYAURA
+GrowthRate = Parabolic
+Category = Weedcat
+GenderRatio = FemaleOneEighth
+Evolutions = POPOBOZU,Level,14
+DexEntry = Gardeners sometimes pull it out of the ground while plucking weeds, mistaking it as one. It does not mind however, and searches for a new place to burrow itself in to absorb nutrients to grow.
+WildItemCommon = ORANBERRY
+WildItemUncommon = ORANBERRY
+WildItemRare = ORANBERRY
+Color = Black
+Shape = Head
+#---------------------------------------------------
+[POPOBOZU]
+Name = Dandemiau
+Types = GRASS
+BaseStats = 72,51,47,83,81,71
+Abilities = OVERGROW
+HiddenAbilities = FAIRYAURA
+GrowthRate = Parabolic
+Category = Dandelion
+GenderRatio = FemaleOneEighth
+Evolutions = WATANEKO,Level,36
+DexEntry = This Pokémon is often overlooked, as it blends in rather well with actual dandelions. If one hears meowing out of them however, it is a dead giveaway that a Dandemiau is hiding there.
+Color = Yellow
+Shape = Head
+#---------------------------------------------------
+[WATANEKO]
+Name = Cottonyan
+Types = GRASS,FAIRY
+BaseStats = 100,68,70,103,109,81
+Abilities = OVERGROW
+HiddenAbilities = FAIRYAURA
+GrowthRate = Parabolic
+Category = Kind
+GenderRatio = FemaleOneEighth
+DexEntry = The cotton on its head regrows if it is harvested, however, instead of using it for clothing, it is more commonly eaten due to its sweet taste. Some of them even offer it by themselves to people it deems nice enough.
+Color = Pink
+Shape = Head
+#---------------------------------------------------
+[FLAMBEAR]
+Name = Flambear
+Types = FIRE
+BaseStats = 70,45,35,35,60,65
+Abilities = BLAZE
+HiddenAbilities = STAMINA
+GrowthRate = Parabolic
+Category = Bear
+GenderRatio = FemaleOneEighth
+Evolutions = VOLBEAR,Level,16
+DexEntry = Its flames are not particulary hot, and are more suited to roast its food than to use them in combat. When in danger, it can produce an especially bright burning flame to ward off predators, but this tires it out fast.
+WildItemCommon = ORANBERRY
+WildItemUncommon = ORANBERRY
+WildItemRare = ORANBERRY
+Color = Red
+Shape = Bipedal
+#---------------------------------------------------
+[VOLBEAR]
+Name = Volbear
+Types = FIRE
+BaseStats = 100,60,51,44,70,80
+Abilities = BLAZE
+HiddenAbilities = STAMINA
+GrowthRate = Parabolic
+Category = Bear
+GenderRatio = FemaleOneEighth
+Evolutions = DYNABEAR,Level,34
+DexEntry = This Pokémon used to be more common in Argon's woods, but it was often hunted for its fur, desired by its exceptional heat conserving capabilities. Poaching it has long since been outlawed.
+Color = Red
+Shape = Quadruped
+#---------------------------------------------------
+[DYNABEAR]
+Name = Dynabear
+Types = FIRE
+BaseStats = 140,75,65,59,95,100
+Abilities = BLAZE
+HiddenAbilities = STAMINA
+GrowthRate = Parabolic
+Category = Protector
+GenderRatio = FemaleOneEighth
+DexEntry = It protects its forest from outside threats with its life, rarely resorting to controlled wildfire as a last resort. Reports from the past suggest some even went as far to utilize a scorched earth approach to keep the intruders from benefitting of off the woods.
+Color = Red
+Shape = Quadruped
+#---------------------------------------------------
+[CRUZ]
+Name = Cruize
+Types = WATER
+BaseStats = 50,51,50,50,53,55
+Abilities = TORRENT
+HiddenAbilities = SWIFTSWIM
+GrowthRate = Parabolic
+Category = Aquatic
+GenderRatio = FemaleOneEighth
+Evolutions = AQUA,Level,18
+DexEntry = Cruize can be found swimming near surface level in deeper waters. It has a rather playful attitude, which leads to most that come near the shores to end up as partners for humans.
+WildItemCommon = ORANBERRY
+WildItemUncommon = ORANBERRY
+WildItemRare = ORANBERRY
+Color = Blue
+Shape = Serpentine
+#---------------------------------------------------
+[AQUA]
+Name = Aquallo
+Types = WATER
+BaseStats = 75,60,69,63,74,64
+Abilities = TORRENT
+HiddenAbilities = SWIFTSWIM
+GrowthRate = Parabolic
+Category = Aquatic
+GenderRatio = FemaleOneEighth
+Evolutions = AQUARIUS,Level,32
+DexEntry = Having it accept oneself as its trainer takes some work, as they are quite prideful despite their playful nature. It stays loyal to the end.
+Color = Blue
+Shape = Serpentine
+#---------------------------------------------------
+[AQUARIUS]
+Name = Aquarius
+Types = WATER
+BaseStats = 100,85,90,76,100,80
+Abilities = TORRENT
+HiddenAbilities = SWIFTSWIM
+GrowthRate = Parabolic
+Category = Territorial
+GenderRatio = FemaleOneEighth
+DexEntry = Supposedly, it was first sighted in Galar long ago, but proof of this has yet to surface as of today. It is sometimes found in the northern seas of Argon, displaying very territorial behaviour towards Pokémon of the same kind.
+Color = Blue
+Shape = Serpentine
+#---------------------------------------------------
+[BABYVULPIX]
+Name = Tritales
+Types = FIRE
+BaseStats = 30,15,30,50,45,40
+Abilities = FLASHFIRE
+HiddenAbilities = DROUGHT
+GrowthRate = Medium
+Category = Fox
+GenderRatio = Female75Percent
+Evolutions = VULPIX,Happiness,
+DexEntry = Tritales' Flames burn rather weak, and its curses barely have any effect. It has a more playful attitude than its evolved forms.
+Color = Red
+Shape = Quadruped
+#---------------------------------------------------
+[PUDI]
+Name = Puddy
+Types = FIRE
+BaseStats = 45,45,30,50,45,35
+Abilities = INTIMIDATE,FLASHFIRE
+HiddenAbilities = JUSTIFIED
+GrowthRate = Slow
+Category = Puppy
+GenderRatio = Female25Percent
+Evolutions = GROWLITHE,Happiness,
+DexEntry = Possibly the most popular Pokémon to keep as a pet, they adore their owners and practically never stray from their side. 
+Color = Brown
+Shape = Quadruped
+#---------------------------------------------------
+[PARABY]
+Name = Paraspor
+Types = BUG,GRASS
+BaseStats = 25,55,45,3,37,45
+Abilities = EFFECTSPORE,DRYSKIN
+HiddenAbilities = DAMP
+GrowthRate = Medium
+Category = Mushroom
+GenderRatio = Female50Percent
+Evolutions = PARAS,Level,14
+DexEntry = Paraspor are practically stationary, they rely solely on the fungus to deliver them sustenance. It also serves as their shell.
+WildItemCommon = TINYMUSHROOM
+WildItemUncommon = BIGMUSHROOM
+Color = Red
+Shape = Insectoid
+#---------------------------------------------------
+[BABYGOLDEEN]
+Name = Orefry
+Types = WATER
+BaseStats = 35,57,48,45,25,40
+Abilities = SWIFTSWIM,WATERVEIL
+HiddenAbilities = LIGHTNINGROD
+GrowthRate = Medium
+Category = Goldfish
+GenderRatio = Female50Percent
+Evolutions = GOLDEEN,Level,15
+DexEntry = Often kept in ponds and aquariums alike, this small fish Pokémon is quite popular, even if it originally wasn't native to this region.
+Color = Red
+Shape = Finned
+#---------------------------------------------------
+[PETICORN]
+Name = Peticorn
+Types = FIRE
+BaseStats = 40,55,45,75,55,45
+Abilities = RUNAWAY,FLASHFIRE
+HiddenAbilities = FLAMEBODY
+GrowthRate = Medium
+Category = Foal
+GenderRatio = Female50Percent
+Evolutions = PONYTA,Level,20
+DexEntry = It has trouble running, and walks rather shaky, but only like this it can learn to gallop.
+Color = Red
+Shape = Quadruped
+#---------------------------------------------------
+[CHIX]
+Name = Dodaerie
+Types = NORMAL,FLYING
+BaseStats = 25,65,35,35,20,30
+Abilities = RUNAWAY,EARLYBIRD
+HiddenAbilities = TANGLEDFEET
+GrowthRate = Medium
+Category = Nest
+GenderRatio = Female50Percent
+Evolutions = DODUO,Happiness,
+DexEntry = What might seem like a nest on first glance are actually its feathers. It is of note that it has three heads, with one seemingly disappearing and later reappearing upon evolution.
+Color = Brown
+Shape = MultiBody
+#---------------------------------------------------
+[KONYA]
+Name = Meowzy
+Types = NORMAL
+BaseStats = 30,30,25,55,30,30
+Abilities = PICKUP,TECHNICIAN
+HiddenAbilities = UNNERVE
+GrowthRate = Medium
+Category = Kitten
+GenderRatio = Female50Percent
+Evolutions = MEOWTH,Happiness,
+DexEntry = Meowzy are not very active, but very popular to keep as pets, since they are relatively easy to take care off. It can create coins just like its evolution, but it lacks the ability to do this at will, it seems to happen randomly.
+WildItemUncommon = AMULETCOIN
+Color = Yellow
+Shape = Quadruped
+#---------------------------------------------------
+[GRIMBY]
+Name = Smujj
+Types = POISON
+BaseStats = 60,50,40,10,20,40
+Abilities = STENCH,STICKYHOLD
+HiddenAbilities = POISONTOUCH
+GrowthRate = Medium
+Category = Slime
+GenderRatio = Female50Percent
+Evolutions = GRIMER,Happiness,
+DexEntry = They are sometimes mistaken for simple piles of goo due to their small size, which causes a surprise for both parties if someone is to try to clean the spot up.
+WildItemCommon = BLACKSLUDGE
+Color = Purple
+Shape = Head
+#---------------------------------------------------
+[GARGOYLE]
+Name = Gargoctyl
+Types = ROCK
+BaseStats = 65,70,50,90,30,65
+Abilities = ROCKHEAD,PRESSURE
+HiddenAbilities = UNNERVE
+GrowthRate = Slow
+Category = Statue
+GenderRatio = FemaleOneEighth
+Evolutions = AERODACTYL,Level,25
+DexEntry = An until now previously undiscovered earlier evolution stage of Aerodactyl, lacking the ability of flight and instead relying almost purely on intimidation to fend off predators. It still prefers having a high ground, though.
+Color = Gray
+Shape = BipedalTail
+#---------------------------------------------------
+[BARUNDA]
+Name = Drifbal
+Types = FLYING
+BaseStats = 70,25,5,60,40,10
+Abilities = AFTERMATH,FLAREBOOST
+HiddenAbilities = UNBURDEN
+GrowthRate = Slow
+Category = Balloon
+GenderRatio = Female50Percent
+Evolutions = DRIFLOON,Level,15
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Pink
+Shape = Head
+#---------------------------------------------------
+[OOBAT]
+Name = Oobat
+Types = FLYING
+BaseStats = 45,15,20,57,35,20
+Abilities = UNAWARE,KLUTZ
+HiddenAbilities = SIMPLE
+GrowthRate = Medium
+Category = Bat
+GenderRatio = Female50Percent
+Evolutions = WOOBAT,Level,15
+DexEntry = The only part of its body that is fully developed are its wings, as it has yet to grow any fur and is still blind. Despite evolving into Woobat, on first glance it shows similarities to Zubat, which may indicate that the lines are related.
+Color = Blue
+Shape = Winged
+#---------------------------------------------------
+[KOALA]
+Name = Kozy
+Types = NORMAL
+BaseStats = 45,75,60,40,50,70
+Abilities = COMATOSE
+HiddenAbilities = COMATOSE
+GrowthRate = Slow
+Category = Drowsy
+GenderRatio = Female50Percent
+Evolutions = KOMALA,Happiness,
+DexEntry = Originally not native to the Argon region, this pre-evolution of Komala prefers to stay close with its parents. It is always seen either clinging onto one of them or a twig.
+Color = Gray
+Shape = Quadruped
+#---------------------------------------------------
+[SATO]
+Name = Sailwing
+Types = FLYING,WATER
+BaseStats = 50,60,30,80,60,45
+Abilities = KEENEYE
+HiddenAbilities = KEENEYE
+GrowthRate = Medium
+Category = Flyfish
+GenderRatio = Female50Percent
+Evolutions = CRAMORANT,Happiness,
+DexEntry = Its appearance does resemble a fish, but it is in fact more bird-like than anything else. It is equally capable of both flying and swimming.
+Color = Blue
+Shape = Winged
+#---------------------------------------------------
+[BABYTANGELA]
+Name = Tangby
+Types = GRASS
+BaseStats = 50,45,80,35,70,30
+Abilities = CHLOROPHYLL,LEAFGUARD
+HiddenAbilities = REGENERATOR
+GrowthRate = Medium
+Category = Vine
+GenderRatio = Female50Percent
+Evolutions = TANGELA,Level,16
+DexEntry = They try to blend in with their surroundings to stay out of danger. Still, many become discovered once someone trips over them.
+Color = Green
+Shape = HeadBase
+#---------------------------------------------------
+[MEDUSA]
+Name = Tangusa
+Types = GRASS,ROCK
+BaseStats = 100,110,125,50,50,100
+Abilities = INTIMIDATE,TANGLINGHAIR
+HiddenAbilities = STATIC
+GrowthRate = Medium
+Category = Petrifying
+GenderRatio = Female50Percent
+DexEntry = It usually keeps it eyes hidden, but it is said that those that look into them are paralyzed on the spot, almost in a petrified state.
+Color = Green
+Shape = HeadBase
+#---------------------------------------------------
+[GUARDIA]
+Name = Guardia
+Types = GROUND
+BaseStats = 80,100,130,75,50,90
+Abilities = PARENTALBOND
+HiddenAbilities = PARENTALBOND
+GrowthRate = Medium
+Category = Protector
+GenderRatio = Female50Percent
+Shape = BipedalTail
+#---------------------------------------------------
+[TSUHEADO]
+Name = Tuphosa
+Types = BUG,DARK
+BaseStats = 85,55,55,40,105,60
+Abilities = SWARM,INSOMNIA
+HiddenAbilities = INTIMIDATE
+GrowthRate = Fast
+Category = Scary
+GenderRatio = Female50Percent
+DexEntry = The sight of it strikes fear in most, especially once its unsettling second face on its back starts to move. Recent theories suggest that said face might even be its actual one, the regular one serving merely as a decoy.
+Color = Purple
+Shape = Insectoid
+#---------------------------------------------------
+[TRISTAR]
+Name = Tripstar
+Types = BUG
+BaseStats = 85,95,45,80,50,45
+Abilities = PROTEAN,COLORCHANGE
+HiddenAbilities = MIMICRY
+GrowthRate = Fast
+Category = Camouflage
+GenderRatio = Female50Percent
+DexEntry = This Pokémon is almost unmatched when it comes to adapting to its surroundings, it can survive in almost any setting, going weeks without food or water.
+Color = Red
+Shape = Insectoid
+#---------------------------------------------------
+[SCARECROW]
+Name = Deceikrow
+Types = ELECTRIC,FLYING
+BaseStats = 100,105,52,52,125,71
+Abilities = LIGHTNINGROD,INTIMIDATE
+HiddenAbilities = MAGICBOUNCE
+GrowthRate = Parabolic
+Category = Scarecrow
+GenderRatio = Female50Percent
+DexEntry = This Pokémon has adapted a scarecrow-like appearance in order to scare away potential rivals for its food, also utilizing saved up electric energy from lightning strikes. Through this method, some of them have entire fields of crops just for themselves
+Color = Black
+Shape = Winged
+#---------------------------------------------------
+[QWILJOY]
+Name = Qwiljoy
+Types = WATER,POISON
+BaseStats = 75,115,95,105,55,65
+Abilities = POISONPOINT,SWIFTSWIM
+HiddenAbilities = INTIMIDATE
+GrowthRate = Medium
+Category = Bold
+GenderRatio = Female50Percent
+DexEntry = Compared to Qwilfish, this Pokémon shows a much more rude, sometimes even aggressive behaviour. Even unprovoked, it may attack.
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[KAZAPPELIN]
+Name = Kazappelin
+Types = WATER,ELECTRIC
+BaseStats = 115,45,85,55,115,95
+Abilities = STATIC,SWIFTSWIM
+HiddenAbilities = VOLTABSORB
+GrowthRate = Medium
+Category = Brash
+GenderRatio = Female50Percent
+DexEntry = Unpopular amongst both fishermen and other aquatic Pokémon, this specimen gained electrical prowess upon evolution, which it uses to disrupt others with shocks as it sees fit.
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[ANIMON]
+Name = Metto
+Types = STEEL
+BaseStats = 104,48,68,5,48,68
+Abilities = LIMBER,MAGNETPULL
+HiddenAbilities = IMPOSTER
+GrowthRate = Medium
+Category = Transformation
+GenderRatio = Genderless
+DexEntry = Having absorbed some of the liquid metal which Meltan consists of, this Pokémon used it to increase the sturdyness of its slimy body, to better assess its opponent's moves before transforming into them.
+WildItemCommon = METALPOWDER
+WildItemUncommon = QUICKPOWDER
+WildItemRare = METALCOAT
+Color = Pink
+Shape = Head
+#---------------------------------------------------
+[SECTEON]
+Name = Secteon 
+Types = BUG
+BaseStats = 65,110,95,130,60,65
+Abilities = SWARM
+HiddenAbilities = NATURALCURE
+GrowthRate = Medium
+Category = Insectlike
+GenderRatio = FemaleOneEighth
+DexEntry = Secteon is a rare sight in the wild, usually staying hidden from humans. Sights of it in the past have sometimes been confused with Leafeon.
+Color = Green
+Shape = Quadruped
+#---------------------------------------------------
+[TURBAN]
+Name = Disturban
+Types = POISON,ROCK
+BaseStats = 70,95,180,45,85,50
+Abilities = SHELLARMOR,REGENERATOR
+HiddenAbilities = CURIOUSMEDICINE
+GrowthRate = Slow
+Category = Shell
+GenderRatio = Female50Percent
+DexEntry = This evolved form of Shelder hasn't been properly categorized until recently. It has been known for a long time, especially for its relation to the Slowpoke family, affecting its evolutions. Its poison seems to have different effects on the "victim" depending on where it is injected, usually increasing either physical or mental endurance.
+Color = Gray
+Shape = Head
+#---------------------------------------------------
+[TSUBOMITTO]
+Name = Bellignan
+Types = GRASS,POISON
+BaseStats = 100,105,70,40,105,70
+Abilities = SOLARPOWER,BULLETPROOF
+HiddenAbilities = RECEIVER
+GrowthRate = Parabolic
+Category = Pitcher
+GenderRatio = Female50Percent
+DexEntry = This evolution of Weepinbell is more akin to Bellsprout than anything else, and may have been mistaken as it in the past. It is able to walk, albeit slowly, on its roots, and can catch projectiles with its large, thick leaves.
+Color = Green
+Shape = Bipedal
+#---------------------------------------------------
+[LICK]
+Name = Lickilord
+Types = NORMAL,POISON
+BaseStats = 95,95,85,50,110,80
+Abilities = STICKYHOLD
+HiddenAbilities = MOXIE
+GrowthRate = Medium
+Category = Conceited
+GenderRatio = Female50Percent
+DexEntry = This Pokémon's demeanor may be even described as conceited, it has a very high opinon of itself. The saliva it produces is poisonous, leading it to believe nothing can touch it.
+Color = Pink
+Shape = BipedalTail
+#---------------------------------------------------
+[MADAME]
+Name = Vigileek
+Types = NORMAL,FLYING
+BaseStats = 87,110,64,126,50,70
+Abilities = JUSTIFIED,SHARPNESS
+HiddenAbilities = SNIPER
+GrowthRate = Medium
+Category = Vigilante
+GenderRatio = Female50Percent
+DexEntry = This Pokémon has its own sense of justice, appearing from the shadows to help others in need, particulary those who cannot defend themselves. It has a particular disdain for Sirfetch'd.
+WildItemCommon = LEEK
+WildItemUncommon = LEEK
+WildItemRare = LEEK
+Color = Brown
+Shape = Winged
+#---------------------------------------------------
+[PLUX]
+Name = Plux
+Types = BUG,STEEL
+BaseStats = 90,120,104,76,30,80
+Abilities = INTIMIDATE,MOLDBREAKER
+HiddenAbilities = MOXIE
+GrowthRate = Slow
+Category = Masked
+GenderRatio = Female50Percent
+DexEntry = When a Pinsir is almost forcefully exposed to a Metal Coat, this is the result. It formed an almost unbreakable mask around its face to protect itself from particulary fericous attacks aimed at its eyes. The additional horn allows it to impale foes on it before crushing them with its pincers.
+WildItemUncommon = METALCOAT
+Color = Brown
+Shape = Bipedal
+#---------------------------------------------------
+[PORYGON3]
+Name = Porygon#
+Types = NORMAL
+BaseStats = 100,40,115,50,115,115
+Abilities = TRACE,INTIMIDATE
+HiddenAbilities = ANALYTIC
+GrowthRate = Medium
+Category = Successor
+GenderRatio = Genderless
+DexEntry = After the Silph Company dropped support for Porygon2 and sold the rights to another company, this is how the new developers evolved it further. Apparently, it can now fulfill its original task of exploring space.
+Color = White
+Shape = HeadLegs
+#---------------------------------------------------
+[DONPHANEVO]
+Name = Phanelios
+Types = GROUND
+BaseStats = 120,120,150,20,50,90
+Abilities = STURDY
+HiddenAbilities = BULLETPROOF
+GrowthRate = Medium
+Category = Hard Skin
+GenderRatio = Female50Percent
+DexEntry = Its skin might just be the thickest and toughest there is, bar any that literally is made up of rocks or metal. Barely anything can manage to pierce through it. It likes to bathe in the sunlight for prolonged periods.
+Color = Gray
+Shape = Quadruped
+#---------------------------------------------------
+[BETAGIRAFATIG]
+Name = Kirinirik
+Types = PSYCHIC,DARK
+BaseStats = 70,110,60,120,90,70
+Abilities = CUDCHEW,INTIMIDATE
+HiddenAbilities = SAPSIPPER
+GrowthRate = Medium
+Category = Twoheaded
+GenderRatio = Female50Percent
+Color = Yellow
+Shape = Quadruped
+#---------------------------------------------------
+[SCORPION]
+Name = Skorparmed
+Types = POISON,STEEL
+BaseStats = 75,95,145,85,45,65
+Abilities = STURDY
+HiddenAbilities = BATTLEARMOR
+GrowthRate = Parabolic
+Category = Vicious
+GenderRatio = Female50Percent
+DexEntry = Exposure to the metal coat made unusual Gligar take on an even more unusual appearance. It is highly armed, it can even shoot poison out of its stinger. The ferocity of this Pokémon seems otherworldly.
+WildItemRare = METALCOAT
+Color = Red
+Shape = Insectoid
+#---------------------------------------------------
+[LIPPU]
+Name = Smooetzi
+Types = ICE,PSYCHIC
+BaseStats = 45,85,15,65,65,30
+Abilities = OBLIVIOUS,FOREWARN
+HiddenAbilities = FLUFFY
+GrowthRate = Medium
+Category = Hair
+GenderRatio = AlwaysMale
+Evolutions = BUU,Level,30
+DexEntry = While visually looking quite similiar to Smoochum, these Pokémon only exist as male specimen. They are very conscious about their hair and put utmost care into grooming it.
+Color = White
+Shape = Bipedal
+#---------------------------------------------------
+[BUU]
+Name = Jyetie
+Types = ICE,PSYCHIC
+BaseStats = 65,115,95,95,50,35
+Abilities = OBLIVIOUS,FOREWARN
+HiddenAbilities = FURCOAT
+GrowthRate = Medium
+Category = Humanlike
+GenderRatio = AlwaysMale
+DexEntry = Jyetie is a very elusive species, there have been little sightings outside of the Argon region. It is the male counterpart to Jynx, and specializes in brute strength. There are rumors that humans and it share a common immediate ancestor.
+Offspring = SMOOCHUM, LIPPU
+Color = White
+Shape = Bipedal
+#---------------------------------------------------
+[KOKANA]
+Name = Larveedle
+Types = BUG,FIGHTING 
+BaseStats = 25,60,30,45,10,25
+Abilities = SCRAPPY,INNERFOCUS
+HiddenAbilities = SWARM
+GrowthRate = Fast
+Category = Larva
+GenderRatio = Female50Percent
+Evolutions = KASANAGI,Level,10
+DexEntry = While physically resembling Weedle, these Pokémon lack the poison that Weedle is so renowned for. Despite their fragility, they seem to lack any sense of danger.
+Color = White
+Shape = Insectoid
+#---------------------------------------------------
+[KASANAGI]
+Name = Maggokuna
+Types = BUG,FIGHTING 
+BaseStats = 35,75,50,50,20,35
+Abilities = SCRAPPY,INNERFOCUS
+HiddenAbilities = IRONFIST
+GrowthRate = Fast
+Category = Maggot
+GenderRatio = Female50Percent
+Evolutions = BETABEEDRILL,Level,16
+DexEntry = This Pokémon fends off predators with merciless pummeling that disturb its meditation. It does this in hopes of achieving evolution earlier.
+Color = White
+Shape = Insectoid
+#---------------------------------------------------
+[BETABEEDRILL]
+Name = Beatill
+Types = BUG,FIGHTING 
+BaseStats = 55,100,80,70,30,60
+Abilities = SCRAPPY,INNERFOCUS
+HiddenAbilities = IRONFIST
+GrowthRate = Fast
+Category = Beetle
+GenderRatio = Female50Percent
+Color = Brown
+Shape = Insectoid
+#---------------------------------------------------
+[RINGRING]
+Name = Moibelle
+Types = DARK
+BaseStats = 40,30,30,71,66,62
+Abilities = INSOMNIA,FILTER
+HiddenAbilities = KEENEYE
+GrowthRate = Medium
+Category = Bell
+GenderRatio = FemaleSevenEighths
+Evolutions = BELLRING,HappinessNight,
+DexEntry = These Pokémon roam the streets at night, ringing their bells as they move. In the past, this was seen as a bad omen, especially if one sees them coming from the left.
+WildItemUncommon = SOOTHEBELL
+Color = Black
+Shape = Quadruped
+#---------------------------------------------------
+[BELLRING]
+Name = Belledam
+Types = DARK
+BaseStats = 60,41,61,98,94,90
+Abilities = INSOMNIA,FILTER
+HiddenAbilities = KEENEYE
+GrowthRate = Medium
+Category = Bell
+GenderRatio = FemaleSevenEighths
+DexEntry = This Pokémon has a mind of its own and is very stubborn, its bell emits a chilling tune that does not bode well for its opponents. It's not easy to be accepted by it as a trainer it respects and obeys. 
+WildItemUncommon = SOOTHEBELL
+Color = Black
+Shape = Quadruped
+#---------------------------------------------------
+[KOTORA]
+Name = Kotora
+Types = ELECTRIC
+BaseStats = 70,60,30,60,40,30
+Abilities = STATIC,INTIMIDATE
+HiddenAbilities = FLUFFY
+GrowthRate = Medium
+Category = Tiger
+GenderRatio = Female50Percent
+DexEntry = Despite their playful behaviour, they are quite dangerous, as even if they put little force behind it, their bites are very strong.
+Color = Yellow
+Shape = Quadruped
+#---------------------------------------------------
+[RAITORA]
+Name = Raitora
+Types = ELECTRIC
+BaseStats = 90,95,50,80,50,50
+Abilities = STATIC,INTIMIDATE
+HiddenAbilities = FLUFFY
+GrowthRate = Medium
+Category = Tiger
+GenderRatio = Female50Percent
+Evolutions = RAITORA,Item,THUNDERSTONE
+DexEntry = Its bulky appearance can be misleading, as it is quite agile. It uses this to toy with its prey, not running at full speed, only to quickly leap upon them.
+Color = Yellow
+Shape = Quadruped
+#---------------------------------------------------
+[GOROTORA]
+Name = Gorotora
+Types = ELECTRIC
+BaseStats = 100,115,70,100,60,80
+Abilities = STATIC,INTIMIDATE
+HiddenAbilities = FLUFFY
+GrowthRate = Medium
+Category = Tiger
+GenderRatio = Female50Percent
+Color = Yellow
+Shape = Quadruped
+#---------------------------------------------------
+[CROCKY]
+Name = Gavillian
+Types = DRAGON,ELECTRIC
+BaseStats = 100,115,70,100,60,80
+Abilities = SANDRUSH,PICKPOCKET
+HiddenAbilities = TANGLINGHAIR
+GrowthRate = Slow
+Category = Sandworm
+GenderRatio = Female50Percent
+DexEntry = It uses its hair to passively catch food as it slides through the sand. Its appendages are severely underdeveloped and serve little purpose.
+Color = Brown
+Shape = Serpentine
+#---------------------------------------------------
+[LONGFOX]
+Name = Gleamox
+Types = GROUND
+BaseStats = 50,34,50,71,64,61
+Abilities = SANDRUSH
+HiddenAbilities = SANDFORCE
+GrowthRate = Medium
+Category = Fennec
+GenderRatio = Female50Percent
+Evolutions = FIREFOX,Item,SHINYSTONE
+DexEntry = This Pokémon inhabiting the wastelands swims through sand as if it were water. While not visible, it has small limbs hidden beneath its fur.
+WildItemUncommon = SOFTSAND
+Color = Brown
+Shape = Serpentine
+#---------------------------------------------------
+[FIREFOX]
+Name = Dazzox
+Types = GROUND,FAIRY
+BaseStats = 79,61,51,109,104,81
+Abilities = SANDRUSH
+HiddenAbilities = SANDFORCE
+GrowthRate = Medium
+Category = Fennec
+GenderRatio = Female50Percent
+DexEntry = Its tail is constantly covered in a flame-like illusion consisting of fine particles which it can also use to attack. Coincidentally, the pain caused by it feels like as if it was from a burn.
+WildItemUncommon = SOFTSAND
+Color = Brown
+Shape = Quadruped
+#---------------------------------------------------
+[CLAMPBUNNY]
+Name = Clambit
+Types = FAIRY
+BaseStats = 70,75,98,107,50,80
+Abilities = OVERCOAT,STURDY
+HiddenAbilities = RATTLED
+GrowthRate = Medium
+Category = Resilient
+GenderRatio = Female50Percent
+DexEntry = The hide on its ears is surprisingly thick, protecting its entire body if it puts them together like a clam shell. It can even withstand explosions like this.
+WildItemCommon = PEARL
+WildItemUncommon = BIGPEARL
+WildItemRare = PEARLSTRING
+Color = White
+Shape = HeadLegs
+#---------------------------------------------------
+[TANUKI]
+Name = Promecoon
+Types = NORMAL,FIRE
+BaseStats = 95,50,80,95,100,90
+Abilities = ILLUMINATE
+HiddenAbilities = FLASHFIRE
+GrowthRate = Medium
+Category = Enlightening
+GenderRatio = Female25Percent
+DexEntry = This Pokémon has been around for at least ancient times, appearing in some old folk myths from other regions.There, it is described as bringing fire to humanity and teaching them how to use it.
+WildItemUncommon = CHARCOAL
+Color = Brown
+Shape = BipedalTail
+#---------------------------------------------------
+[BETASNEASEL]
+Name = Marascal
+Types = DARK
+BaseStats = 75,98,80,107,70,50
+Abilities = HUSTLE,SCRAPPY
+HiddenAbilities = PICKPOCKET
+GrowthRate = Medium
+Category = Thief
+GenderRatio = Female50Percent
+DexEntry = These Pokémon are active at night, ransacking settlements and taking with them what they want. Despite seeming very cunning, they have trouble grasping the dangers of electricity and get shocked when chewing on cables.
+Color = Blue
+Shape = BipedalTail
+#---------------------------------------------------
+[CRYSTALDINO]
+Name = Xylodon
+Types = ROCK,STEEL
+BaseStats = 70,30,40,50,125,95
+Abilities = BATTLEARMOR,SOLIDROCK
+GrowthRate = Medium
+Category = Crystal
+GenderRatio = FemaleOneEighth
+Evolutions = XYLOPHONE,Level,40
+DexEntry = A highly intelligent prehistoric Pokémon, some of which managed to survive until today. It
+Color = Blue
+Shape = BipedalTail
+#---------------------------------------------------
+[XYLOPHONE]
+Name = Xyloraft
+Types = WATER,STEEL
+BaseStats = 80,120,110,90,50,85
+Abilities = BATTLEARMOR,SOLIDROCK
+GrowthRate = Slow
+Category = Armored
+GenderRatio = Female50Percent
+DexEntry = A Pokémon that has stayed virtually the same over the centuries, it is one of the earliest known kinds to battle as a sport.
+WildItemUncommon = METALCOAT
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[BABYGYAOON]
+Name = Squealargh
+Types = ROCK,NORMAL
+BaseStats = 60,80,35,60,80,35
+Abilities = INTIMIDATE
+HiddenAbilities = SAPSIPPER
+GrowthRate = Medium
+Category = Shouting
+GenderRatio = FemaleOneEighth
+Evolutions = GYAOON,Level,40
+Color = Green
+Shape = BipedalTail
+#---------------------------------------------------
+[GYAOON]
+Name = Moanargh
+Types = ROCK,NORMAL
+BaseStats = 100,110,55,70,110,55
+Abilities = INTIMIDATE
+HiddenAbilities = SAPSIPPER
+GrowthRate = Medium
+Category = Roar
+GenderRatio = FemaleOneEighth
+Color = Green
+Shape = BipedalTail
+#---------------------------------------------------
+[NOTEBIRD]
+Name = Chickoir
+Types = FLYING
+BaseStats = 50,20,39,50,80,39
+Abilities = AERILATE,CUTECHARM
+HiddenAbilities = LIQUIDVOICE
+GrowthRate = Erratic
+Category = Choir
+GenderRatio = Female50Percent
+Evolutions = GCLEF,Item,WHITEFLUTE,MEGAPHONE,Item,BLACKFLUTE
+DexEntry = Some people base their daily rhythm around their singing in the morning. They tend to be more accurate than even the most advanced alarm clocks.
+WildItemUncommon = THROATSPRAY
+Color = White
+Shape = Head
+#---------------------------------------------------
+[GCLEF]
+Name = Trebbird
+Types = FLYING
+BaseStats = 74,60,60,99,90,111
+Abilities = AERILATE,CUTECHARM
+HiddenAbilities = LIQUIDVOICE
+GrowthRate = Erratic
+Category = Melody
+GenderRatio = Female50Percent
+DexEntry = Their singing is said to be one of the most beautiful sounds in the world. Some of them are celebrities by themselves.
+WildItemUncommon = THROATSPRAY
+Color = White
+Shape = Winged
+#---------------------------------------------------
+[MEGAPHONE]
+Name = Tuneaplev
+Types = FLYING
+BaseStats = 74,90,60,99,111,60
+Abilities = AERILATE,SOUNDPROOF
+HiddenAbilities = PUNKROCK
+GrowthRate = Erratic
+Category = Noise
+GenderRatio = Female50Percent
+DexEntry = Their "singing" is unmistakenable, if someone hears it, they know it's around the area. Most find it unpleasant, some however utilize it to get other people's attention.
+WildItemUncommon = THROATSPRAY
+Color = Gray
+Shape = Winged
+#---------------------------------------------------
+[MLEM]
+Name = Quamlem
+Types = POISON
+BaseStats = 95,55,50,60,23,50
+Abilities = CORROSION
+HiddenAbilities = POISONTOUCH
+GrowthRate = Fluctuating
+Category = Tree Frog
+GenderRatio = Female50Percent
+Evolutions = FROG,Level,40
+DexEntry = A rare, but nevertheless terrifying sight in the marshlands of Argon, as this Pokémons acidic poison can even eat through metal.
+Color = Green
+Shape = Bipedal
+#---------------------------------------------------
+[FROG]
+Name = Froxic
+Types = POISON
+BaseStats = 120,70,70,70,34,80
+Abilities = CORROSION
+HiddenAbilities = POISONTOUCH
+GrowthRate = Fluctuating
+Category = Tree Frog
+GenderRatio = Female50Percent
+DexEntry = They make their home in the dephts of marshes. They watch their victims while sitting on trees, waiting for the right moment to start chasing them down with projectile acid.
+Color = Green
+Shape = Bipedal
+#---------------------------------------------------
+[SUMOFROG]
+Name = Pushquak
+Types = FIGHTING ,GROUND
+BaseStats = 100,50,35,15,25,25
+Abilities = STEADFAST,THICKFAT
+HiddenAbilities = DEFIANT
+GrowthRate = Parabolic
+Category = Sumo
+GenderRatio = Female25Percent
+Evolutions = SUMOFROG2,Level,25
+WildItemRare = FOCUSSASH
+Color = Green
+Shape = Bipedal
+#---------------------------------------------------
+[SUMOFROG2]
+Name = Shovquak
+Types = FIGHTING ,GROUND
+BaseStats = 150,70,60,10,30,40
+Abilities = STEADFAST,THICKFAT
+HiddenAbilities = DEFIANT
+GrowthRate = Parabolic
+Category = Sumo
+GenderRatio = Female25Percent
+Evolutions = SUMOFROG3,Level,45
+WildItemUncommon = FOCUSSASH
+WildItemRare = BLACKBELT
+Color = Green
+Shape = Bipedal
+#---------------------------------------------------
+[SUMOFROG3]
+Name = Quaksmite
+Types = FIGHTING ,GROUND
+BaseStats = 200,90,90,5,35,90
+Abilities = STEADFAST,THICKFAT
+HiddenAbilities = DEFIANT
+GrowthRate = Parabolic
+Category = Sumo
+GenderRatio = Female25Percent
+WildItemCommon = FOCUSSASH
+WildItemUncommon = BLACKBELT
+WildItemRare = EXPERTBELT
+Color = Green
+Shape = Bipedal
+#---------------------------------------------------
+[LIZARD1]
+Name = Squeamata
+Types = DRAGON
+BaseStats = 55,70,10,50,70,65
+Abilities = RAINDISH,SOLARPOWER
+HiddenAbilities = DRYSKIN
+GrowthRate = Parabolic
+Category = Sea Lizard
+GenderRatio = Female50Percent
+Evolutions = LIZARD2,Level,25
+Color = White
+Shape = Quadruped
+#---------------------------------------------------
+[LIZARD2]
+Name = Ministare
+Types = DRAGON
+BaseStats = 65,90,30,60,95,70
+Abilities = RAINDISH,SOLARPOWER
+HiddenAbilities = DRYSKIN
+GrowthRate = Parabolic
+Category = Sea Lizard
+GenderRatio = Female50Percent
+Evolutions = LIZARD3,Level,45
+Color = White
+Shape = Quadruped
+#---------------------------------------------------
+[LIZARD3]
+Name = Iguanarch
+Types = DRAGON
+BaseStats = 89,100,50,86,110,80
+Abilities = RAINDISH,SOLARPOWER
+HiddenAbilities = DRYSKIN
+GrowthRate = Parabolic
+Category = Sea Lizard
+GenderRatio = Female50Percent
+Color = Blue
+Shape = Quadruped
+#---------------------------------------------------
+[BACHE]
+Name = Bache
+Types = GRASS,NORMAL
+BaseStats = 90,80,60,60,30,60
+Abilities = SAPSIPPER
+HiddenAbilities = GRASSYSURGE
+GrowthRate = Fluctuating
+Category = Majestic
+GenderRatio = Female50Percent
+Evolutions = FLUSSBACHE,Level,30
+DexEntry = A peaceful Pokémon, living in the Marshes of Argon. Once a year, they wander next to the Argon region's longest river. The significance of this ritual is still a mystery.
+Color = Brown
+Shape = Quadruped
+#---------------------------------------------------
+[FLUSSBACHE]
+Name = Flussbache
+Types = GRASS,NORMAL
+BaseStats = 150,101,70,84,45,70
+Abilities = SAPSIPPER
+HiddenAbilities = GRASSYSURGE
+GrowthRate = Fluctuating
+Category = Majestic
+GenderRatio = Female50Percent
+DexEntry = One of the most majestic and rare Pokémon living in the Argon region, prefering living close to river creeks. Some people dedicate their lives to just find one.
+Color = Brown
+Shape = Quadruped
+#---------------------------------------------------
+[BETAAIPOM]
+Name = Volpanzee
+Types = NORMAL,ELECTRIC
+BaseStats = 60,80,48,77,60,60
+Abilities = LIGHTNINGROD,VOLTABSORB
+HiddenAbilities = PICKUP
+GrowthRate = Medium
+Category = Chimpanzee
+GenderRatio = Female50Percent
+DexEntry = It climbs up trees to literally catch lightning strikes with its tail, thus preventing many forest fires. The stored up electricity makes this Pokémon hyperactive.
+Color = Brown
+Shape = BipedalTail
+#---------------------------------------------------
+[GORILLAIMO]
+Name = Gorillaimo
+Types = NORMAL,ELECTRIC
+BaseStats = 130,100,75,65,80,90
+Abilities = LIGHTNINGROD,VOLTABSORB
+HiddenAbilities = MOTORDRIVE
+GrowthRate = Medium
+Category = Gorilla
+GenderRatio = Female50Percent
+DexEntry = Intelligent enough to craft items of clothing. Ancient scripture shows a giant Gorillaimo battling Gawarhed.
+#---------------------------------------------------
+[BAGWORM]
+Name = Batteroon
+Types = BUG,ELECTRIC
+BaseStats = 60,30,65,20,65,65
+HiddenAbilities = TRANSISTOR
+GrowthRate = Fast
+Category = Bagworm
+GenderRatio = Female50Percent
+Evolutions = MOTH,Item,THUNDERSTONE
+DexEntry = It hangs from trees, particulary preferring high ones to increase the chance of lighting striking, and absorbs electricity. Once it has enough stored, it can evolve.
+Color = Yellow
+Shape = Insectoid
+#---------------------------------------------------
+[MOTH]
+Name = Shockmoth
+Types = BUG,ELECTRIC
+BaseStats = 89,42,72,109,141,72
+Abilities = STATIC
+HiddenAbilities = TRANSISTOR
+GrowthRate = Fast
+Category = Moth
+GenderRatio = Female50Percent
+DexEntry = Seeing one fly at night is a wonderful sight, sparkling in the darkness. Getting too close to a wild one can be dangerous however, as one risks being shocked by it.
+Color = Yellow
+Shape = Insectoid
+#---------------------------------------------------
+[NINJI]
+Name = Ninjirrel
+Types = FIGHTING,FLYING
+BaseStats = 60,100,50,140,90,70
+Abilities = EMERGENCYEXIT,INFILTRATOR
+HiddenAbilities = DEFIANT
+GrowthRate = Medium
+Category = Ninja
+GenderRatio = Female50Percent
+DexEntry = Its origins date back to outside of Argon, in regions further east. Many ninja clans used these to accompany them when carrying out missions.
+Color = Black
+Shape = BipedalTail
+#---------------------------------------------------
+[YOUMU]
+Name = Yogeist
+Types = GHOST,NORMAL
+BaseStats = 40,60,40,70,60,40
+Abilities = CURSEDBODY,PERISHBODY
+HiddenAbilities = WANDERINGSPIRIT
+GrowthRate = Parabolic
+Category = Spirit
+GenderRatio = Female50Percent
+Evolutions = NOROWA,Ninjask,27,TWINS,Shedinja,27
+DexEntry = A spirit that hasn't fully become part of the spirit realm and thus retains some of its corporeal properties. It also binds two wisps with it which would otherwise perish.
+WildItemUncommon = SPELLTAG
+Color = White
+Shape = Head
+#---------------------------------------------------
+[NOROWA]
+Name = Kurstraw
+Types = GHOST,NORMAL
+BaseStats = 55,90,60,60,70,70
+Abilities = CURSEDBODY,PERISHBODY
+HiddenAbilities = WANDERINGSPIRIT
+GrowthRate = Parabolic
+Category = Voodoo
+GenderRatio = Female50Percent
+Evolutions = PANDA,Level,44
+DexEntry = A Yogeist possessing a strawdoll that was already used to curse someone. It is constantly in extreme pain, yet still smiles at every moment.
+WildItemUncommon = SPELLTAG
+Color = Brown
+Shape = Bipedal
+#---------------------------------------------------
+[PANDA]
+Name = Phandarin
+Types = GHOST,NORMAL
+BaseStats = 90,120,85,50,70,85
+Abilities = CURSEDBODY,PERISHBODY
+HiddenAbilities = WANDERINGSPIRIT
+GrowthRate = Parabolic
+Category = Zombie
+GenderRatio = Female50Percent
+DexEntry = Its only mode of movement is to hop around, which seems innocent enough, but if one were to let this Pokémon too close, it would try to suck their life energy out. 
+WildItemUncommon = SPELLTAG
+Color = Black
+Shape = BipedalTail
+#---------------------------------------------------
+[TWINS]
+Name = Bipulla
+Types = GHOST,PSYCHIC
+BaseStats = 40,85,50,89,85,50
+Abilities = VITALSPIRIT,MOODY
+HiddenAbilities = PARENTALBOND
+GrowthRate = Parabolic
+Category = Abandoned
+GenderRatio = Genderless
+DexEntry = Abandoned by Yogeist in favor of posessing a strawdoll, these two wisps were forced to become conjoined to still be able to manifest. They tend to argue a lot.
+Color = Purple
+Shape = MultiBody
+#---------------------------------------------------
+[NECROKIWI]
+Name = Nekriwi
+Types = GHOST,FLYING
+BaseStats = 107,83,60,112,83,60
+Abilities = MUMMY
+HiddenAbilities = MUMMY
+GrowthRate = Erratic
+Category = Undead
+GenderRatio = Female50Percent
+DexEntry = A very odd Pokémon, displaying signs of rotting, yet it is still alive. It is rarely preyed upon, as other wild Pokémon deem it dead.
+WildItemUncommon = BERRYJUICE
+Color = Gray
+Shape = Bipedal
+#---------------------------------------------------
+[FLYFISH]
+Name = Finneepeep
+Types = FIGHTING,FLYING
+BaseStats = 50,50,20,90,30,20
+Abilities = ADAPTABILITY
+HiddenAbilities = SWIFTSWIM
+GrowthRate = Parabolic
+Category = Fish
+GenderRatio = Female50Percent
+Evolutions = FLYFISH2,Level,30
+DexEntry = For being seemingly aquatic, this Pokémon is also very much capable of walking on land and even flying for short periods of time. Why they haven't abandoned their aquatic lifestyle remains a mystery.
+Color = Purple
+Shape = Finned
+#---------------------------------------------------
+[FLYFISH2]
+Name = Finessence
+Types = FIGHTING ,FLYING
+BaseStats = 90,80,65,160,60,55
+Abilities = ADAPTABILITY
+HiddenAbilities = SWIFTSWIM
+GrowthRate = Parabolic
+Category = Fighter
+GenderRatio = Female50Percent
+DexEntry = This Pokémon delivers deceivingly heavy, but also fluent strikes in an elegant manner. It likes to challenge formidable foes to become the strongest in its habitat.
+Color = Purple
+Shape = Bipedal
+#---------------------------------------------------
+[INKSQUID]
+Name = Quilluid
+Types = WATER,FAIRY
+BaseStats = 70,75,60,25,45,60
+Abilities = STICKYHOLD
+HiddenAbilities = ARENATRAP
+GrowthRate = Parabolic
+Category = Ink
+GenderRatio = Female50Percent
+Evolutions = INKSQUID2,Level,30
+DexEntry = This Pokémon bears a visually striking resemblance to the once extinct but now revived and repopulated Omanyte. A direct relationship has yet to be confirmed.
+Color = White
+Shape = Multiped
+#---------------------------------------------------
+[INKSQUID2]
+Name = Squipen
+Types = WATER,FAIRY
+BaseStats = 90,100,80,55,75,80
+Abilities = STICKYHOLD
+HiddenAbilities = ARENATRAP
+GrowthRate = Parabolic
+Category = Ink
+GenderRatio = Female50Percent
+DexEntry = It shoots very sticky ink to trap its foes from fleeing. This ink is waterproof, which made it sought after in the past for use in writing utensils.
+Color = White
+Shape = Multiped
+#---------------------------------------------------
+[JAGGU]
+Name = Sharpoon
+Types = WATER,STEEL
+BaseStats = 50,60,60,80,30,50
+Abilities = ANGERPOINT,IRONBARBS
+HiddenAbilities = REGENERATOR
+GrowthRate = Medium
+Category = Harpoon
+GenderRatio = Female50Percent
+Evolutions = IKARI,Level,31
+DexEntry = Rarely sighted near shores, this Pokémon is relatively harmless, despite its appearance. The harpoon on its head easily breaks off, so it is more of an intimidation tool.
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[IKARI]
+Name = Ankorage
+Types = WATER,STEEL
+BaseStats = 80,100,75,95,65,70
+Abilities = ANGERPOINT,ARENATRAP
+HiddenAbilities = REGENERATOR
+GrowthRate = Medium
+Category = Anchor
+GenderRatio = Female50Percent
+DexEntry = It is able to swim at considerably fast speeds, even with its metal tail, which it uses to prevent foes from escaping.
+WildItemUncommon = METALCOAT
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[EEL]
+Name = Eelfant
+Types = WATER
+BaseStats = 60,50,50,70,50,50
+Abilities = SWIFTSWIM,OWNTEMPO
+HiddenAbilities = LIMBER
+GrowthRate = Medium
+Category = Eel
+GenderRatio = Female50Percent
+Evolutions = GROTESS,Level,31
+DexEntry = It's almost translucent appearance makes it very easy to miss even in the upper levels of the sea, letting most safely mature until evolution.
+WildItemUncommon = BRIGHTPOWDER
+Color = White
+Shape = Serpentine
+#---------------------------------------------------
+[GROTESS]
+Name = Grotess
+Types = WATER,DARK
+BaseStats = 80,65,70,95,100,75
+Abilities = SWIFTSWIM,ILLUMINATE
+HiddenAbilities = LIMBER
+GrowthRate = Medium
+Category = Abyss
+GenderRatio = Female50Percent
+DexEntry = Usually living in the depths, this Pokémon uses the light it emits to lure other Pokémon into letting their guard down. It seems to have a disdain for both Ankorage and Lanturn.
+WildItemUncommon = BRIGHTPOWDER
+Color = Black
+Shape = Serpentine
+#---------------------------------------------------
+[DRILLSQUID]
+Name = Drilmar
+Types = WATER,GROUND
+BaseStats = 74,113,101,104,50,68
+Abilities = INFILTRATOR
+HiddenAbilities = STEELWORKER
+GrowthRate = Fast
+Category = Driller
+GenderRatio = Female50Percent
+DexEntry = Its ink is slightly corrosive, which it uses to soften up surfaces to drill in. It has caused numerous leaks in even the sturdiest ships.
+Color = Gray
+Shape = Multiped
+#---------------------------------------------------
+[SNAKE]
+Name = Vikyrm
+Types = DRAGON
+BaseStats = 70,40,45,60,40,45
+Abilities = STORMDRAIN,STURDY
+HiddenAbilities = DEFIANT
+GrowthRate = Slow
+Category = Sandworm
+GenderRatio = Female50Percent
+Evolutions = NICEBOAT,Level,40
+DexEntry = Despite its name and appearance, it is more worm-like than an actual snake. The feathers adorning its head stem from an earlier evolutional period.
+Color = Brown
+Shape = Serpentine
+#---------------------------------------------------
+[NICEBOAT]
+Name = Vikanaut
+Types = DRAGON,WATER
+BaseStats = 120,70,70,85,120,70
+Abilities = STORMDRAIN,STURDY
+HiddenAbilities = DEFIANT
+GrowthRate = Slow
+Category = Boat
+GenderRatio = Female50Percent
+DexEntry = Tales passed down through generations say that the people of Argon once crossed the seas on these Pokémon to reach the far-off regions that are nowadays known as Galar, Orre and Unova.
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[BOMSEEL]
+Name = Bomseel
+Types = FIRE,WATER
+BaseStats = 90,50,80,95,110,80
+Abilities = TINTEDLENS,ADAPTABILITY
+HiddenAbilities = BULLETPROOF
+GrowthRate = Medium
+Category = Seel
+GenderRatio = Female50Percent
+DexEntry = This aquatic Pokémon can create explosive spheres that it uses to bombard its enemies. Sometimes it is also seen playing around with them, as if they were regular balls.
+Color = Red
+Shape = Finned
+#---------------------------------------------------
+[YUKIUSAGI1]
+Name = Shneeboll
+Types = ICE
+BaseStats = 40,50,40,60,50,40
+Abilities = ICEBODY,SLUSHRUSH
+HiddenAbilities = WATERCOMPACTION
+GrowthRate = Fast
+Category = Snowball
+GenderRatio = Female50Percent
+Evolutions = YUKIUSAGI2,Level,24
+DexEntry = These Pokémon can get increasingly larger the longer they roll around in snow. This does not last however, as only the snow that is close to its body sticks for prolonged periods.
+WildItemCommon = SNOWBALL
+Color = White
+Shape = Head
+#---------------------------------------------------
+[YUKIUSAGI2]
+Name = Yusagi
+Types = ICE,GRASS
+BaseStats = 60,70,50,70,70,60
+Abilities = ICEBODY,SLUSHRUSH
+HiddenAbilities = WATERCOMPACTION
+GrowthRate = Fast
+Category = Snowrhare
+GenderRatio = Female50Percent
+Evolutions = YUKIUSAGI3A,Item,ICESTONE,YUKIUSAGI3B,Item,LEAFSTONE
+DexEntry = Their main movement mode is hopping. Especially popular amongst children, there even is a snack based off of them. The real one is not edible, however.
+WildItemCommon = SNOWBALL
+Color = White
+Shape = Head
+#---------------------------------------------------
+[YUKIUSAGI3A]
+Name = Sagergine
+Types = ICE,GRASS
+BaseStats = 80,90,60,90,90,80
+Abilities = ICEBODY,SLUSHRUSH
+HiddenAbilities = WATERCOMPACTION
+GrowthRate = Fast
+Category = Snowhare
+GenderRatio = Female50Percent
+DexEntry = When resting, they sink into the snow, until only their leafy hair is visible. It also uses this tactic to hide from danger.
+WildItemCommon = SNOWBALL
+Color = White
+Shape = HeadBase
+#---------------------------------------------------
+[YUKIUSAGI3B]
+Name = Deproot
+Types = GROUND,GRASS
+BaseStats = 120,80,90,15,110,75
+Abilities = OVERCOAT,DAMP
+HiddenAbilities = DRYSKIN
+GrowthRate = Fast
+Category = Rooted
+GenderRatio = Female50Percent
+DexEntry = Its body temperature had become too high to keep its snow-based coat intact. It can absorb considerably more nutrients with its strenthened roots however.
+WildItemCommon = BIGROOT
+Color = Brown
+Shape = HeadBase
+#---------------------------------------------------
+[HANEI]
+Name = Seraphane
+Types = FLYING
+BaseStats = 83,15,83,93,53,93
+Abilities = NATURALCURE
+HiddenAbilities = HEALER
+GrowthRate = Fluctuating
+Category = Pure
+GenderRatio = Genderless 
+Evolutions = BETATOGEKISS,LevelDarkInParty,44
+DexEntry = An exceedingly rare Pokémon, having one appear before someone is viewed as a blessing. The people they appear to are most often pure of heart deep down.
+Color = White
+Shape = Winged
+#---------------------------------------------------
+[BETATOGEKISS]
+Name = Sinistrius
+Types = FLYING,DARK
+BaseStats = 93,90,63,95,101,73
+Abilities = DARKAURA
+HiddenAbilities = MOXIE
+GrowthRate = Fluctuating
+Category = Corrupted
+GenderRatio = Genderless 
+DexEntry = This once pure Pokémon has been corrupted and gave in to the temptation of abandoning its lawful ways to gain more and more power.
+Color = White
+Shape = Winged
+#---------------------------------------------------
+[FLY]
+Name = Flystar
+Types = BUG,FLYING
+BaseStats = 40,85,50,100,30,50
+HiddenAbilities = ROCKHEAD
+GrowthRate = Erratic
+Category = Shooting Star
+GenderRatio = Female50Percent
+Evolutions = ARMORBUG,HasInParty,MINIOR
+DexEntry = This Pokémon usually is flying high in the stratosphere, only rarely descending down. Rarely, they are mistaken for shooting stars.
+Color = Gray
+Shape = Insectoid
+#---------------------------------------------------
+[ARMORBUG]
+Name = Meteofly
+Types = BUG,ROCK
+BaseStats = 70,109,70,100,76,70
+HiddenAbilities = ROCKHEAD
+GrowthRate = Erratic
+Category = Meteor
+GenderRatio = Female50Percent
+DexEntry = Using Minior's broken off shield to form a rocky exoskeleton, this Pokémon becomes a devastating force the more it accelerates. It is believed some meteor impacts involved it.
+Color = Brown
+Shape = Insectoid
+#---------------------------------------------------
+[CACTUS]
+Name = Cactormus
+Types = GRASS,GROUND
+BaseStats = 180,100,65,70,90,65
+Abilities = ROUGHSKIN
+HiddenAbilities = MIMICRY
+GrowthRate = Slow
+Category = Cactus
+GenderRatio = Genderless 
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Green
+Shape = HeadLegs
+#---------------------------------------------------
+[BETADRAGONAIR]
+Name = Addenair
+Types = POISON,GRASS
+BaseStats = 75,88,48,95,45,69
+Abilities = SHEDSKIN
+HiddenAbilities = CHLOROPHYLL
+GrowthRate = Slow
+Category = Adder
+GenderRatio = Female50Percent
+Color = Green
+Shape = Serpentine
+#---------------------------------------------------
+[SANDWORM]
+Name = Sandwyrm
+Types = GROUND,DRAGON
+BaseStats = 100,105,70,100,115,70
+Abilities = SANDRUSH,SANDFORCE
+HiddenAbilities = SANDSPIT
+GrowthRate = Slow
+Category = Sandworm
+GenderRatio = Female50Percent
+DexEntry = The apex predator of the deserts, it hides below the sand, striking once something draws near. Theoretically, it could also live in water.
+Color = Brown
+Shape = Serpentine
+#---------------------------------------------------
+[KABIN]
+Types = WATER ,NORMAL
+BaseStats = 110,65,40,60,75,40
+Abilities = DRYSKIN
+HiddenAbilities = HYDRATION
+GrowthRate = Slow
+Category = Perplex
+GenderRatio = Female50Percent
+#---------------------------------------------------
+[NYOSUKA]
+Name = Poliwealth
+Types = WATER,NORMAL
+BaseStats = 180,90,70,40,95,65
+Abilities = DRYSKIN
+HiddenAbilities = HYDRATION
+GrowthRate = Slow
+Category = Lethargic
+GenderRatio = Female25Percent
+WildItemRare = KINGSROCK
+Color = Black
+Shape = Bipedal
+#---------------------------------------------------
+[BETASUNFLORA]
+Name = Sunpowster
+Types = PSYCHIC,ELECTRIC
+BaseStats = 70,35,40,87,130,70
+Abilities = VOLTABSORB,LIGHTNINGROD
+HiddenAbilities = CHLOROPHYLL
+GrowthRate = Erratic
+Category = Imitation
+GenderRatio = Female50Percent
+WildItemUncommon = SUNSTONE
+Color = Yellow
+Shape = HeadBase
+#---------------------------------------------------
+[ICIQUIL]
+Name = Iciquil 
+Types = ICE
+BaseStats = 80,103,87,93,50,87
+Abilities = SLUSHRUSH
+HiddenAbilities = SPEEDBOOST
+GrowthRate = Medium
+Category = Hedgehog
+GenderRatio = Female50Percent
+DexEntry = 490
+Color = Blue
+Shape = Quadruped
+#---------------------------------------------------
+[BETACOMBEE]
+Name = Comdrii
+Types = FLYING
+BaseStats = 30,42,30,70,42,30
+Abilities = KEENEYE,STAKEOUT
+HiddenAbilities = MOTORDRIVE
+GrowthRate = Medium
+Category = Drone
+GenderRatio = Genderless 
+#---------------------------------------------------
+[BETAVESPIQUEEN]
+Name = Vespeetee
+Types = FLYING
+BaseStats = 40,80,70,102,102,80
+Abilities = KEENEYE,STAKEOUT
+HiddenAbilities = MOTORDRIVE
+GrowthRate = Medium
+Category = Drone
+GenderRatio = Genderless 
+#---------------------------------------------------
+[WOLFMAN]
+Name = Wolfman
+Types = ICE
+BaseStats = 70,90,40,70,30,50
+Abilities = TOUGHCLAWS,FURCOAT
+HiddenAbilities = SLUSHRUSH
+GrowthRate = Slow
+Category = Wolf
+GenderRatio = Female50Percent
+Evolutions = WARWOLF,Level,45
+DexEntry = It may not seem like it, but the "pelt" is really not a disguise and instead a part of its body. They are very playful but aren't aware of how powerful they are, often causing harm on accident.
+Color = White
+Shape = Bipedal
+#---------------------------------------------------
+[WARWOLF]
+Name = Warwolf
+Types = ICE
+BaseStats = 100,130,90,110,80,90
+Abilities = TOUGHCLAWS,FURCOAT
+HiddenAbilities = SLUSHRUSH
+GrowthRate = Slow
+Category = Wolf
+GenderRatio = Female50Percent
+DexEntry = Feared by many due to folk tales telling of it stealing away Wooloo from their herd, this Pokémon actually is not the ruthless predator it seems, instead living relatively secluded in packs, only getting aggressive when threatened.
+Color = White
+Shape = BipedalTail
+#---------------------------------------------------
+[MANBO1]
+Name = Molambino
+Types = WATER
+BaseStats = 55,50,40,65,50,40
+Abilities = SWIFTSWIM,OWNTEMPO
+HiddenAbilities = SOLARPOWER
+GrowthRate = Slow
+Category = Sunfish
+GenderRatio = Female50Percent
+Evolutions = MANBO2,Level,25
+DexEntry = It is rather helpless, even when it assembles with others of its kind into schools. However, a Molagrand is sure to be somewhere close to protect them.
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[MANBO2]
+Name = Sunmola
+Types = WATER
+BaseStats = 90,65,50,70,90,55
+Abilities = SWIFTSWIM,OWNTEMPO
+HiddenAbilities = SOLARPOWER
+GrowthRate = Slow
+Category = Sunfish
+GenderRatio = Female50Percent
+Evolutions = MANBO3,Level,50
+DexEntry = They seperate from their schools upon evolution, to journey the seas and to grow stronger, so it may too can protect a Molambino school of its own.
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[MANBO3]
+Name = Molagrand
+Types = WATER,FAIRY
+BaseStats = 120,100,82,91,120,87
+Abilities = SWIFTSWIM,INTIMIDATE
+HiddenAbilities = SOLARPOWER
+GrowthRate = Slow
+Category = Sunfish
+GenderRatio = Female50Percent
+DexEntry = An imposing presence in the seas, Molagrand will do everything in its power to stop any harm coming to its school of Sunmola. It can harness the power of celestial bodies in the sky.
+Color = Blue
+Shape = Finned
+#---------------------------------------------------
+[CYCLOPLANT]
+Name = Cyclare
+Types = GRASS
+BaseStats = 50,60,50,10,80,50
+Abilities = KEENEYE
+HiddenAbilities = KEENEYE
+GrowthRate = Slow
+Category = Cyclops
+GenderRatio = Genderless 
+Evolutions = BLOSSOMOLE,Level,25
+DexEntry = This eery Pokémon resembles a plant superficially, but does not behave like one. It seems very unusual to be of terrestial origin.
+Color = Green
+Shape = HeadBase
+#---------------------------------------------------
+[BLOSSOMOLE]
+Name = Blossomatter
+Types = GRASS,DARK
+BaseStats = 65,75,65,40,110,65
+Abilities = KEENEYE
+HiddenAbilities = KEENEYE
+GrowthRate = Slow
+Category = Decoy
+GenderRatio = Genderless 
+Evolutions = SAKURA,Level,50
+DexEntry = On first sight, this may seem like a Pokémon resembling a mole hiding in the blossom, but this is only a decoy, as the pattern on its "stomach" is actually its eye.
+Color = Green
+Shape = HeadBase
+#---------------------------------------------------
+[SAKURA]
+Name = Bloszero
+Types = GRASS,DARK
+BaseStats = 80,90,60,140,170,60
+Abilities = LEVITATE
+HiddenAbilities = LEVITATE
+GrowthRate = Slow
+Category = Dark Matter
+GenderRatio = Genderless 
+DexEntry = An extremely powerful Pokémon, able to control dark matter. It is certainly not from this world and must be treated with extreme caution.
+Color = Green
+Shape = Head
+#---------------------------------------------------
+[STORK]
+Name = Storssance
+Types = FLYING,WATER
+BaseStats = 130,50,100,120,90,110
+Abilities = PARENTALBOND
+HiddenAbilities = PARENTALBOND
+GrowthRate = Slow
+Category = Stork
+GenderRatio = Genderless 
+DexEntry = This legendary Pokémon is the apparent cause of Pokémon eggs appearing in daycares all over the world, as to this day no one ever saw a Pokémon actually lay an egg. The baby in its mouth however, is its own, training to one day take its role.
+Color = White
+Shape = MultiBody
+Flags = Legendary
+#---------------------------------------------------
+[PUNK]
+Name = Rapunk
+Types = ELECTRIC,FIGHTING
+BaseStats = 100,120,110,90,80,80
+Abilities = IRONBARBS
+HiddenAbilities = IRONBARBS
+GrowthRate = Slow
+Category = Wolf General
+GenderRatio = Genderless 
+DexEntry = One of the Argon region's legendary wolves, formerly governing the north of the region in the era of the emperor. It shows itself to trainers that are willing to stand up for what they believe is right.
+Happiness = 150
+Color = Black
+Shape = Quadruped
+Flags = Legendary
+#---------------------------------------------------
+[ENKER]
+Name = Enkar
+Types = FIRE,FIGHTING
+BaseStats = 150,90,85,80,90,85
+Abilities = MAGICBOUNCE
+HiddenAbilities = MAGICBOUNCE
+GrowthRate = Slow
+Category = Wolf General
+GenderRatio = Genderless 
+DexEntry = One of the Argon region's legendary wolves, formerly ruling Argon's east under the emperor. It shows itself to trainers with are focused and do not lose sight of their goal.
+Happiness = 150
+Color = Red
+Shape = Quadruped
+Flags = Legendary
+#---------------------------------------------------
+[BALLADE]
+Name = Sullade
+Types = WATER,FIGHTING
+BaseStats = 110,70,80,110,110,100
+Abilities = RECKLESS
+HiddenAbilities = RECKLESS
+GrowthRate = Slow
+Category = Wolf General
+GenderRatio = Genderless 
+DexEntry = One of the Argon region's legendary wolves, watching over the regions western parts in the past. It shows itself to trainers who strive for the best but know their boundaries.
+Happiness = 150
+Color = Blue
+Shape = Quadruped
+Flags = Legendary
+#---------------------------------------------------
+[ARGOLOSS]
+Name = Argoloss
+Types = PSYCHIC,FIGHTING
+BaseStats = 180,80,90,110,130,90
+GrowthRate = Slow
+Category = Emperor
+GenderRatio = Genderless 
+DexEntry = The former emperor of the Argon region, remembered for its ambition to spread the region's influence far beyond its reaches in the past. Now, it left the region's fate to humans, only intervening when it seems them not fit to rule.
+Happiness = 200
+Color = Gray
+Shape = Quadruped
+Flags = Legendary
+#---------------------------------------------------
+[MEPHISTO]
+Name = Mephißiel
+Types = DARK,POISON
+BaseStats = 111,111,111,111,111,111
+Abilities = LEVITATE
+HiddenAbilities = LEVITATE
+GrowthRate = Slow
+Category = Malicious
+GenderRatio = Genderless 
+DexEntry = One of the few, if not the only Pokémon that can truly be described as evil. It hates the concept of order. It was banished to the distortion world by Arceus and watched over by Giratina.
+Happiness = 0
+Color = Yellow
+Shape = Quadruped
+Flags = Legendary
+#---------------------------------------------------
+[OHMEGA]
+Name = Ohmegadge
+Types = STEEL
+BaseStats = 190,100,100,10,100,100
+GrowthRate = Slow
+Category = Mecha
+GenderRatio = Genderless 
+DexEntry = Secretly created by scientists from scratch, as a means to defend the planet from possible extraterrestial threats. Should it fall into the wrong hands, it would spell disaster.
+Happiness = 0
+WildItemCommon = ASSAULTVEST
+WildItemUncommon = ASSAULTVEST
+WildItemRare = ASSAULTVEST
+Color = Gray
+Shape = Bipedal
+Flags = Legendary
+#---------------------------------------------------
+[SKELETON]
+Name = Skeleterror
+Types = GROUND
+BaseStats = 96,180,87,150,33,24
+Abilities = BEASTBOOST
+HiddenAbilities = BEASTBOOST
+GrowthRate = Slow
+Category = Skeleton
+GenderRatio = Genderless 
+DexEntry = A newly discovered ultra beast, this imposing figure seems to be entirely made of bones, with no visible signs of vital organs or tissue. How it even manages to function is a scientific mystery.
+Happiness = 0
+WildItemUncommon = THICKCLUB
+Color = White
+Shape = BipedalTail
+Flags = UltraBeast
+#---------------------------------------------------
+[NIDOENBY]
+Name = Cold Spikes
+Types = POISON,ICE
+BaseStats = 90,112,87,91,105,85
+Abilities = PROTOSYNTHESIS
+HiddenAbilities = PROTOSYNTHESIS
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = It appears to be a prehistoric relative to the Nidoran family. Its spikes inject poison that is so cold the victim freezes to death before the toxins come into full effect.
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Gray
+Shape = Quadruped
+#---------------------------------------------------
+[MEGASPARCE]
+Name = Toxic Rattle
+Types = NORMAL,POISON
+BaseStats = 125,49,101,91,105,99
+Abilities = PROTOSYNTHESIS
+HiddenAbilities = PROTOSYNTHESIS
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = This Pokémon looks quite similiar to something described as a plump but highly aggressive Dunsparce that once terrorized a family living in the mountains.
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Yellow
+Shape = Serpentine
+#---------------------------------------------------
+[STRYKE]
+Name = Strike Reaper
+Types = BUG,DRAGON
+BaseStats = 105,130,85,125,45,80
+Abilities = PROTOSYNTHESIS
+HiddenAbilities = PROTOSYNTHESIS
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = It appears to be a prehistoric relative of Scyther. It has more developed legs compared to its contemporary relative, indicating it mainly moved on foot. Its wings are unfit for flying, indicating they only served to support jumps.
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Green
+Shape = Bipedal
+#---------------------------------------------------
+[MIDDLEDUCK]
+Name = Poison Beak
+Types = WATER,POISON
+BaseStats = 105,120,80,93,82,90
+Abilities = PROTOSYNTHESIS
+HiddenAbilities = PROTOSYNTHESIS
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Green
+Shape = BipedalTail
+#---------------------------------------------------
+[WARTORTLEEVO]
+Name = Wise Shell
+Types = WATER,GRASS
+BaseStats = 100,125,105,60,90,90
+Abilities = PROTOSYNTHESIS
+HiddenAbilities = PROTOSYNTHESIS
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = It resembles a report about a Wartortle that has lived for thousands of years and has seaweed growing over its shell. They are likely the same.
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Blue
+Shape = BipedalTail
+#---------------------------------------------------
+[LATIKEN]
+Name = Blaze Enigma
+Types = FIRE,PSYCHIC
+BaseStats = 50,50,50,50,50,50
+Abilities = PROTOSYNTHESIS
+HiddenAbilities = PROTOSYNTHESIS
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+WildItemUncommon = BOOSTERENERGY
+#---------------------------------------------------
+[BLOB]
+Name = Primorblob
+Types = WATER
+BaseStats = 50,50,50,50,50,50
+Abilities = PROTOSYNTHESIS
+HiddenAbilities = PROTOSYNTHESIS
+GrowthRate = Slow
+Category = Primordial
+GenderRatio = Genderless 
+#---------------------------------------------------
+[SANDMANN]
+Name = Sandormir
+Types = FAIRY,GROUND
+BaseStats = 100,100,100,100,100,100
+Abilities = ORICHALCUMPULSE
+HiddenAbilities = ORICHALCUMPULSE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+Happiness = 0
+Color = Brown
+Shape = Bipedal
+Flags = Mythical
+#---------------------------------------------------
+[BABYBLASTOISE]
+Name = Iron Launcher
+Types = WATER,ELECTRIC
+BaseStats = 60,105,90,100,125,90
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = This Pokémon matches descriptions of leaked classified military documents and appears to be related to Blastoise. It can move at astounding speeds when it retreats inside its shell and starts sliding.
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Blue
+Shape = BipedalTail
+#---------------------------------------------------
+[DEER]
+Name = Iron Antlers
+Types = STEEL,NORMAL
+BaseStats = 85,100,130,110,55,90
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = This Pokémon resembles an old sighting of a Pokémon somewhat akin to Stantler, but moving in a very rigid, stiff manner. They are likely one and the same.
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Color = Gray
+Shape = Quadruped
+#---------------------------------------------------
+[RABBIT]
+Name = Iron Grin
+Types = GHOST,ELECTRIC
+BaseStats = 55,66,77,88,88,77
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = This Pokémo
+WildItemUncommon = BOOSTERENERGY
+Color = Gray
+Shape = BipedalTail
+#---------------------------------------------------
+[LEG]
+Name = Iron Sapiens
+Types = STEEL,PSYCHIC
+BaseStats = 97,81,85,121,101,85
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+Happiness = 0
+WildItemUncommon = BOOSTERENERGY
+Shape = Bipedal
+#---------------------------------------------------
+[TORPEDOTINE]
+Name = Iron Bomber
+Types = FLYING,FIRE
+BaseStats = 50,50,50,50,50,50
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+DexEntry = Gray
+#---------------------------------------------------
+[BETAELEKID]
+Name = Iron Beacon
+Types = ELECTRIC,FAIRY
+BaseStats = 50,50,50,50,50,50
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+#---------------------------------------------------
+[BETAHERACROSS]
+Name = Iron Champion
+Types = FIGHTING,ROCK
+BaseStats = 50,50,50,50,50,50
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+#---------------------------------------------------
+[BETARAYQUAZA]
+Name = Iron Zephyr
+Types = FLYING,ELECTRIC
+BaseStats = 50,50,50,50,50,50
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+#---------------------------------------------------
+[PLASMA]
+Name = Plasmax
+Types = ELECTRIC
+BaseStats = 50,50,50,50,50,50
+Abilities = QUARKDRIVE
+HiddenAbilities = QUARKDRIVE
+GrowthRate = Slow
+Category = Progression
+GenderRatio = Genderless 
+#---------------------------------------------------
+[QUINT]
+Name = Quinpet
+Types = DARK,STEEL
+BaseStats = 50,150,50,150,150,50
+Abilities = HADRONENGINE
+HiddenAbilities = HADRONENGINE
+GrowthRate = Slow
+Category = Paradox
+GenderRatio = Genderless 
+Happiness = 0
+Color = Black
+Shape = Bipedal
+Flags = Mythical
+#---------------------------------------------------
+[XA2]
+Name = X-a²
+Types = QMARKS,PSYCHIC
+BaseStats = 255,255,255,255,255,255
+Abilities = WONDERGUARD
+HiddenAbilities = WONDERGUARD
+GrowthRate = Slow
+Category = Outer God
+GenderRatio = Genderless 
+DexEntry = Uncreated yet existant. Ubiquity. Inevitability. Ever present, still beyond comprehendable reaches. Surpassing anything fathomable. Not meant to be understood or even thought of by mortals. One-Winged Angel.
+Happiness = 70
+Color = Green
+Shape = Winged
+Flags = Mythical
