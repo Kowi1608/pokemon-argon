@@ -1,0 +1,29 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[PEERLESSPRECISION]
+Name = Peerless Precision
+Description = Projectile- and beam-based moves are perfectly accurate and stronger.
+#-------------------------------
+[HEAVYTAIL]
+Name = Heavy Tail
+Description = Tail-based moves deal double damage.
+#-------------------------------
+[GRAVITYSURGE]
+Name = Gravity Surge
+Description = Increases gravity on entry for 5 turns.
+#-------------------------------
+[KNOWTHEDRILL]
+Name = Know the Drill
+Description = Drilling moves are stronger and more accurate.
+#-------------------------------
+[COURSESET]
+Name = Course Set
+Description = Boosts the Pokémon's Speed stat but only allows the use of the first selected move. 
+#-------------------------------
+[COMBATMACHINE]
+Name = Combat Machine
+Description = The Pokémon is immune to mental ailments such as confusion or being taunted.
+#-------------------------------
+[ABSOLUTEAUTHORITY]
+Name = Absolute Authority
+Description = The Pokémon's moves ignore the target's resistances and immunities.

@@ -1,0 +1,25 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BOTTLEOFMAGGI]
+Name = Maggi
+NamePlural = Maggi
+PortionName = bottle of Maggi
+PortionNamePlural = bottles of Maggi
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = A small glass bottle containing liquid seasoning. Evolves a certain rare Pokémon.
+#-------------------------------
+[HEARTSTONE]
+Name = Heart Stone
+NamePlural = Heart Stones
+Pocket = 1
+Price = 3000
+SellPrice = 750
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = A peculiar stone that makes certain species of Pokémon evolve. It radiates an aura full of contentness.
+#-------------------------------

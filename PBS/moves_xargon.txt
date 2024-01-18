@@ -1,0 +1,139 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[FLUSHFANG]
+Name = Flush Fang
+Type = WATER
+Category = Physical
+Power = 65
+Accuracy = 95
+TotalPP = 15
+Target = NearOther
+FunctionCode = RemoveTargetItemAndFlinch
+Flags = Contact,CanProtect,CanMirrorMove,Biting
+EffectChance = 100
+Description = The user bites the opponent while also spewing water from its mouth, removing their item. May flinch.
+#---------------------------------------------
+[PETALWIND]
+Name = Petal Wind
+Type = GRASS
+Category = Special
+Power = 30
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = FlinchSwitchOutUserDamagingMove
+Flags = CanProtect,CanMirrorMove,Wind
+EffectChance = 100
+Description = The user disappears in a stream of petals and swaps out for a party member. May Flinch.
+#---------------------------------------------
+[HEATBUNKER]
+Name = Heat Bunker
+Type = FIRE
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+Priority = 4
+FunctionCode = ProtectUserHeatBunker
+Description = Protects the user from attacks and recovers 1/4 of their maximum HP. Also burns any attacker that makes contact with the user.
+#-------------------------------
+[CRABRAVE]
+Name = Crab Rave
+Type = WATER
+Category = Status
+Accuracy = 0
+TotalPP = 20
+Target = User
+FunctionCode = RaiseUserAtkAccSpd1
+Flags = Dance
+Description = The user performs a a dance only possible for crustaceans, raising their Attack, Speed and Accuracy.
+#-------------------------------
+#TODO: Custom Function Code
+[FLAMEMIRROR]
+Name = Flame Mirror
+Type = FIRE
+Category = Special
+Power = 1
+Accuracy = 100
+TotalPP = 10
+Target = None
+FunctionCode = CounterDamagePlusHalf
+Flags = CanProtect,CanMirrorMove
+Priority = -5
+Description = The user casts a flaming mirror, retaliating with double the power it was attacked with. Lowers the users SpDef and Def afterwards.
+#-------------------------------
+#TODO: create Tail Flag
+[WRECKINGBALL]
+Name = Wrecking Ball
+Type = FIGHTING
+Category = Physical
+Power = 80
+Accuracy = 90
+TotalPP = 15
+Target = NearOther
+FunctionCode = LowerTargetDefense1
+Flags = Contact,CanProtect,CanMirrorMove
+EffectChance = 30
+Description = The target is attacked by a ball-and-chain combo. It may also lower the target's Defense stat.
+#-------------------------------
+[CRACKLINGCRUSHER]
+Name = Crackling Crusher
+Type = ELECTRIC
+Category = Physical
+Power = 55
+Accuracy = 0
+TotalPP = 10
+Target = NearOther
+FunctionCode = HitTwoTimesTargetThenTargetAlly
+Flags = CanProtect,CanMirrorMove
+Description = This attack never misses. If there are two targets, this move hits each one once.
+#-------------------------------
+[HYDROGENEXPLOSION]
+Name = Hydrogen Explosion
+Type = WATER
+Category = Special
+Power = 130
+Accuracy = 100
+TotalPP = 10
+Target = AllNearOthers
+FunctionCode = RecoilThirdOfDamageDealt
+Flags = CanProtect,CanMirrorMove
+Description = The user causes a chemical reaction resulting in an explosion while taking serious recoil.
+#-------------------------------
+[RIGHTFULRULE]
+Name = Rightful Rule
+Type = PSYCHIC
+Category = Special
+Power = 100
+Accuracy = 100
+TotalPP = 10
+Target = Other
+FunctionCode = LowerTargetAtkSpAtk1
+Flags = CanProtect,CanMirrorMove
+Description = Demonstrating their might, the user intimidates the target and lowers its Attack and Sp. Atk.
+#-------------------------------
+#TODO: Custom Function Code
+[ELDRITCHBLAST]
+Name = Eldritch Blast
+Type = QMARKS
+Category = Special
+Power = 200
+Accuracy = 100
+TotalPP = 5
+Target = NearOther
+FunctionCode = CategoryDependsOnHigherDamageIgnoreTargetAbility
+Flags = CannotMetronome
+Description = The user attacks with unfathomable force from beyond understanding and targets the lower of Defense and Sp. Def.
+#-------------------------------
+[ROCKSLASH]
+Name = Rock Slash
+Type = ROCK
+Category = Physical
+Power = 130
+Accuracy = 75
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect,CanMirrorMove,Slicing
+Description = The user slashes at the foe by crossing its hardnened arms or claws.
+#-------------------------------

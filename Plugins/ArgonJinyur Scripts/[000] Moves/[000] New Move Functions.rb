@@ -52,7 +52,7 @@ end
 class Battle::Move::ProtectUserHeatBunker < Battle::Move::ProtectMove
   def initialize(battle, move)
     super
-    @effect = PBEffects::HeatBunker
+    @effect = PBEffects::BurningBulwark
   end
   
   def healingMove?;       return true; end
