@@ -77,3 +77,4 @@ class Battle::Move::ProtectUserHeatBunker < Battle::Move::ProtectMove
   def pbHealAmount(user)
     return (user.totalhp / 4.0).round
 end
+end
