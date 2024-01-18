@@ -840,10 +840,10 @@ ShadowX = 0
 ShadowSize = 1
 #-------------------------------
 [DIPPLIN]
-BackSprite = -6,43
-FrontSprite = 0,23
+BackSprite = 0,43
+FrontSprite = 2,18
 ShadowX = 0
-ShadowSize = 0
+ShadowSize = 2
 #-------------------------------
 [POLTCHAGEIST]
 BackSprite = 0,36
