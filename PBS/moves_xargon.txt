@@ -35,7 +35,8 @@ TotalPP = 10
 Target = User
 Priority = 4
 FunctionCode = ProtectUserHeatBunker
-Description = Protects the user from attacks and recovers 1/4 of their maximum HP. Also burns any attacker that makes contact with the user.
+EffectChance = 20
+Description = Protects the user from attacks and recovers 1/4 of their maximum HP. Also may burn any attacker that makes contact with the user.
 #-------------------------------
 [CRABRAVE]
 Name = Crab Rave
@@ -74,7 +75,7 @@ Target = NearOther
 FunctionCode = LowerTargetDefense1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 30
-Description = The target is attacked by a ball-and-chain combo. It may also lower the target's Defense stat.
+Description = The target is attacked by a ball'n'chain combo. May also lower the target's Defense stat.
 #-------------------------------
 [CRACKLINGCRUSHER]
 Name = Crackling Crusher
@@ -100,6 +101,7 @@ FunctionCode = RecoilThirdOfDamageDealt
 Flags = CanProtect,CanMirrorMove
 Description = The user causes a chemical reaction resulting in an explosion while taking serious recoil.
 #-------------------------------
+#TODO: effect doesnt work
 [RIGHTFULRULE]
 Name = Rightful Rule
 Type = PSYCHIC
@@ -123,7 +125,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = CategoryDependsOnHigherDamageIgnoreTargetAbility
 Flags = CannotMetronome
-Description = The user attacks with unfathomable force from beyond understanding and targets the lower of Defense and Sp. Def.
+Description = An unfathomable force from beyond understanding targets the lower of Defense and Sp. Def.
 #-------------------------------
 [ROCKSLASH]
 Name = Rock Slash
@@ -137,3 +139,26 @@ FunctionCode = None
 Flags = Contact,CanProtect,CanMirrorMove,Slicing
 Description = The user slashes at the foe by crossing its hardnened arms or claws.
 #-------------------------------
+[DRYICE]
+Name = Dry Ice
+Type = ICE
+Category = Status
+Accuracy = 85
+TotalPP = 15
+Target = NearOther
+FunctionCode = FrostbiteTarget
+Flags = CanProtect,CanMirrorMove
+Description = The user shoots dry ice particles at the target to inflict a frostbite.
+#-------------------------------
+[COINHURL]
+Name = Coin Hurl
+Type = NORMAL
+Category = Physical
+Accuracy = 100
+TotalPP = 15
+Power = 90
+Target = NearOther
+FunctionCode = TypeIsUserFistTypeAwardMoney
+Flags = CanProtect,CanMirrorMove
+Description = Throws coins of the user's type at the target. Coins are picked up after battle.
+

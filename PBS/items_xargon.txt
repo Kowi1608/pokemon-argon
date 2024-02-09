@@ -23,3 +23,12 @@ FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_80
 Description = A peculiar stone that makes certain species of Pokémon evolve. It radiates an aura full of contentness.
 #-------------------------------
+[PRIDEBALL]
+Name = Pride Ball
+NamePlural = Pride Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball for catching Pokémon that are the same gender of your Pokémon.
+#-------------------------------
