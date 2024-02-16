@@ -1130,7 +1130,7 @@ Habitat = Cave
 Category = Bat
 Pokedex = Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.
 Generation = 1
-Evolutions = CROBAT,Happiness,
+Evolutions = CROBAT,Happiness,,CROBAT,Item,HEARTSTONE
 ConditionalSOS = CROBAT,Cave,
 CallRateSOS = 9
 #-------------------------------
@@ -3092,7 +3092,7 @@ Category = Egg
 Pokedex = Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those who have lost their appetite.
 Generation = 1
 WildItemCommon = LUCKYPUNCH
-Evolutions = BLISSEY,Happiness,
+Evolutions = BLISSEY,Happiness,,BLISSEY,Item,HEARTSTONE
 SpeciesSOS = CHANSEY,BLISSEY
 CallRateSOS = 9
 #-------------------------------
@@ -4689,7 +4689,7 @@ Habitat = Forest
 Category = Tiny Mouse
 Pokedex = It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.
 Generation = 2
-Evolutions = PIKACHU,Happiness,
+Evolutions = PIKACHU,Happiness,,PIKACHU,Item,HEARTSTONE
 Flags = SOSForm_0
 SpeciesSOS = PICHU,PIKACHU,HAPPINY
 CallRateSOS = 15
@@ -4720,7 +4720,7 @@ Category = Star Shape
 Pokedex = On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.
 Generation = 2
 WildItemUncommon = MOONSTONE
-Evolutions = CLEFAIRY,Happiness,
+Evolutions = CLEFAIRY,Happiness,,CLEFAIRY,Item,HEARTSTONE
 SpeciesSOS = CLEFFA,CLEFAIRY,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -4749,7 +4749,7 @@ Habitat = Grassland
 Category = Balloon
 Pokedex = Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.
 Generation = 2
-Evolutions = JIGGLYPUFF,Happiness,
+Evolutions = JIGGLYPUFF,Happiness,,JIGGLYPUFF,Item,HEARTSTONE
 SpeciesSOS = IGGLYBUFF,JIGGLYPUFF,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -4778,7 +4778,7 @@ Habitat = Forest
 Category = Spike Ball
 Pokedex = As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.
 Generation = 2
-Evolutions = TOGETIC,Happiness,
+Evolutions = TOGETIC,Happiness,,TOGETIC,Item,HEARTSTONE
 SpeciesSOS = TOGEPI,TOGETIC,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -8118,7 +8118,7 @@ Habitat = WatersEdge
 Category = Polka Dot
 Pokedex = Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.
 Generation = 3
-Evolutions = MARILL,Happiness,
+Evolutions = MARILL,Happiness,,MARILL,Item,HEARTSTONE
 SpeciesSOS = AZURILL,MARILL,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -11633,7 +11633,7 @@ Habitat = Grassland
 Category = Rabbit
 Pokedex = It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.
 Generation = 4
-Evolutions = LOPUNNY,Happiness,
+Evolutions = LOPUNNY,Happiness,,LOPUNNY,Item,HEARTSTONE
 ConditionalSOS = LOPUNNY,LandDay,
 CallRateSOS = 9
 #-------------------------------
@@ -12159,7 +12159,7 @@ Generation = 4
 WildItemCommon = LEFTOVERS
 WildItemUncommon = LEFTOVERS
 WildItemRare = LEFTOVERS
-Evolutions = SNORLAX,Happiness,
+Evolutions = SNORLAX,Happiness,,SNORLAX,Item,HEARTSTONE
 SpeciesSOS = MUNCHLAX,SNORLAX,HAPPINY
 CallRateSOS = 6
 #-------------------------------
@@ -14307,7 +14307,7 @@ Habitat = Cave
 Category = Bat
 Pokedex = Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.
 Generation = 5
-Evolutions = SWOOBAT,Happiness,
+Evolutions = SWOOBAT,Happiness,,SWOOBAT,Item,HEARTSTONE
 CallRateSOS = 9
 #-------------------------------
 [SWOOBAT]
@@ -14688,7 +14688,7 @@ Category = Leaf-Wrapped
 Pokedex = It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.
 Generation = 5
 WildItemUncommon = MENTALHERB
-Evolutions = LEAVANNY,Happiness,
+Evolutions = LEAVANNY,Happiness,,LEAVANNY,Item,HEARTSTONE
 CallRateSOS = 6
 #-------------------------------
 [LEAVANNY]
@@ -20929,7 +20929,7 @@ Category = Synthetic
 Pokedex = The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.
 Generation = 7
 Flags = Legendary
-Evolutions = SILVALLY,Happiness,
+Evolutions = SILVALLY,Happiness,,SILVALLY,Item,HEARTSTONE
 #-------------------------------
 [SILVALLY]
 Name = Silvally
