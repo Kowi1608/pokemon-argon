@@ -1904,7 +1904,7 @@ Habitat = Forest
 Category = Flycatcher
 Pokedex = At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.
 Generation = 1
-Evolutions = VICTREEBEL,Item,LEAFSTONE
+Evolutions = VICTREEBEL,Item,LEAFSTONE,BELLIGNAN,Item,POISONSTONE
 CallRateSOS = 6
 #-------------------------------
 [VICTREEBEL]
@@ -2267,7 +2267,7 @@ Category = Wild Duck
 Pokedex = It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.
 Generation = 1
 WildItemUncommon = LEEK
-Evolutions = SIRFETCHD,None,
+Evolutions = SIRFETCHD,None,,LUXWAN,BattleDealCriticalHit,3
 CallRateSOS = 9
 #-------------------------------
 [DODUO]
@@ -2463,7 +2463,7 @@ Pokedex = At night, it burrows a hole in the seafloor with its broad tongue to m
 Generation = 1
 WildItemCommon = PEARL
 WildItemUncommon = BIGPEARL
-Evolutions = CLOYSTER,Item,WATERSTONE
+Evolutions = CLOYSTER,Item,WATERSTONE,DISTURBAN,Item,POISONSTONE
 CallRateSOS = 9
 #-------------------------------
 [CLOYSTER]
@@ -2953,7 +2953,7 @@ Category = Licking
 Pokedex = Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
-Evolutions = LICKILICKY,HasMove,ROLLOUT
+Evolutions = LICKILICKY,HasMove,ROLLOUT,LICK,Item,KINGSROCK
 CallRateSOS = 3
 #-------------------------------
 [KOFFING]
@@ -3485,6 +3485,7 @@ Category = Stag Beetle
 Pokedex = Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.
 Generation = 1
 CallRateSOS = 3
+Evolutions = TRICULES,Item,METALCOAT
 #-------------------------------
 [TAUROS]
 Name = Tauros
@@ -5525,7 +5526,7 @@ Habitat = Grassland
 Category = Long Neck
 Pokedex = A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.
 Generation = 2
-Evolutions = FARIGIRAF,HasMove,TWINBEAM
+Evolutions = FARIGIRAF,HasMove,TWINBEAM,BETAGIRAFARIG,HasMove,CRUNCH
 CallRateSOS = 9
 #-------------------------------
 [PINECO]
@@ -6319,6 +6320,7 @@ Habitat = RoughTerrain
 Category = Armor
 Pokedex = A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.
 Generation = 2
+Evolutions = DONPHANEVO,ItemNight,PEATBLOCK
 #-------------------------------
 [PORYGON2]
 Name = Porygon2
@@ -6344,7 +6346,7 @@ Habitat = Urban
 Category = Virtual
 Pokedex = It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.
 Generation = 2
-Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC,PORYGONZ,Item,DUBIOUSDISC,PORYGON3,Item,SECURITYPATCH
 #-------------------------------
 [STANTLER]
 Name = Stantler
