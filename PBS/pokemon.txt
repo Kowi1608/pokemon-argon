@@ -6320,7 +6320,7 @@ Habitat = RoughTerrain
 Category = Armor
 Pokedex = A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.
 Generation = 2
-Evolutions = DONPHANEVO,ItemNight,PEATBLOCK
+Evolutions = DONPHANEVO,Item,PEATBLOCK
 #-------------------------------
 [PORYGON2]
 Name = Porygon2
@@ -11060,7 +11060,7 @@ Category = Bud
 Pokedex = Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.
 Generation = 4
 WildItemUncommon = POISONBARB
-Evolutions = ROSELIA,HappinessDay,
+Evolutions = ROSELIA,HappinessDay,;ROSELIA,Item,HEARTSTONE
 SpeciesSOS = BUDEW,ROSELIA,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -11794,7 +11794,7 @@ Category = Bell
 Pokedex = It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.
 Generation = 4
 WildItemUncommon = CLEANSETAG
-Evolutions = CHIMECHO,HappinessNight,
+Evolutions = CHIMECHO,HappinessNight,CHIMECHO,ItemNight,HEARTSTONE
 SpeciesSOS = CHINGLING,CHIMECHO,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -12188,7 +12188,7 @@ Habitat = Mountain
 Category = Emanation
 Pokedex = The aura that emanates from its body intensifies to alert others if it is afraid or sad.
 Generation = 4
-Evolutions = LUCARIO,HappinessDay,
+Evolutions = LUCARIO,HappinessDay,,LUCARIO,Item,HEARTSTONE
 SpeciesSOS = RIOLU,LUCARIO,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -23580,7 +23580,7 @@ Category = Worm
 Pokedex = It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.
 Generation = 8
 WildItemUncommon = SNOWBALL
-Evolutions = FROSMOTH,HappinessNight,
+Evolutions = FROSMOTH,HappinessNight,,FROSMOTH,Item,HEARTSTONE
 CallRateSOS = 15
 #-------------------------------
 [FROSMOTH]
