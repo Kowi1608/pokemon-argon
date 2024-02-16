@@ -3121,7 +3121,7 @@ Habitat = Grassland
 Category = Vine
 Pokedex = Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.
 Generation = 1
-Evolutions = TANGROWTH,HasMove,ANCIENTPOWER
+Evolutions = TANGROWTH,HasMove,ANCIENTPOWER,JUNGELA,HasMove,GLARE
 CallRateSOS = 9
 #-------------------------------
 [KANGASKHAN]
@@ -3624,6 +3624,7 @@ Generation = 1
 WildItemCommon = QUICKPOWDER
 WildItemUncommon = METALPOWDER
 CallRateSOS = 9
+Evolutions = MIMMEO,HasInParty,MELTAN
 #-------------------------------
 [EEVEE]
 Name = Eevee
@@ -3650,7 +3651,7 @@ Habitat = Urban
 Category = Evolution
 Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
 Generation = 1
-Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,
+Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,,SECTEON,Item,SHINYSTONE,UMBREON,Item,MOONSTONE,ESPEON,Item,SUNSTONE,SYLVEON,Item,DAWNSTONE
 ConditionalSOS = ESPEON,LandDay,,UMBREON,LandNight,
 CallRateSOS = 9
 #-------------------------------
@@ -5743,7 +5744,7 @@ Category = Balloon
 Pokedex = A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.
 Generation = 2
 WildItemUncommon = POISONBARB
-Evolutions = OVERQWIL,None,
+Evolutions = OVERQWIL,None,,QWILJOY,Item,POISONSTONE
 CallRateSOS = 9
 #-------------------------------
 [SCIZOR]
