@@ -1130,7 +1130,7 @@ Habitat = Cave
 Category = Bat
 Pokedex = Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.
 Generation = 1
-Evolutions = CROBAT,Happiness,
+Evolutions = CROBAT,Happiness,,CROBAT,Item,HEARTSTONE
 ConditionalSOS = CROBAT,Cave,
 CallRateSOS = 9
 #-------------------------------
@@ -1657,7 +1657,7 @@ Category = Tadpole
 Pokedex = Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.
 Generation = 1
 WildItemUncommon = KINGSROCK
-Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
+Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK,POLITOED,Item,KINGSROCK
 CallRateSOS = 6
 #-------------------------------
 [POLIWRATH]
@@ -1904,7 +1904,7 @@ Habitat = Forest
 Category = Flycatcher
 Pokedex = At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.
 Generation = 1
-Evolutions = VICTREEBEL,Item,LEAFSTONE
+Evolutions = VICTREEBEL,Item,LEAFSTONE,BELLIGNAN,Item,POISONSTONE
 CallRateSOS = 6
 #-------------------------------
 [VICTREEBEL]
@@ -2151,7 +2151,7 @@ Category = Dopey
 Pokedex = It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends whole days just loafing at the water's edge.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
-Evolutions = SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
+Evolutions = SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK,SLOWKING,Item,KINGSROCK
 ConditionalSOS = SHELLDER,Water,,SLOWBRO,Land,,SLOWKING,Land,
 CallRateSOS = 9
 #-------------------------------
@@ -2267,7 +2267,7 @@ Category = Wild Duck
 Pokedex = It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.
 Generation = 1
 WildItemUncommon = LEEK
-Evolutions = SIRFETCHD,None,
+Evolutions = SIRFETCHD,None,,LUXWAN,BattleDealCriticalHit,3
 CallRateSOS = 9
 #-------------------------------
 [DODUO]
@@ -2463,7 +2463,7 @@ Pokedex = At night, it burrows a hole in the seafloor with its broad tongue to m
 Generation = 1
 WildItemCommon = PEARL
 WildItemUncommon = BIGPEARL
-Evolutions = CLOYSTER,Item,WATERSTONE
+Evolutions = CLOYSTER,Item,WATERSTONE,DISTURBAN,Item,POISONSTONE
 CallRateSOS = 9
 #-------------------------------
 [CLOYSTER]
@@ -2596,7 +2596,7 @@ Habitat = Cave
 Category = Rock Snake
 Pokedex = There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.
 Generation = 1
-Evolutions = STEELIX,TradeItem,METALCOAT
+Evolutions = STEELIX,TradeItem,METALCOAT,STEELIX,Item,METALCOAT
 SpeciesSOS = GEODUDE,ONIX
 CallRateSOS = 9
 #-------------------------------
@@ -2953,7 +2953,7 @@ Category = Licking
 Pokedex = Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
-Evolutions = LICKILICKY,HasMove,ROLLOUT
+Evolutions = LICKILICKY,HasMove,ROLLOUT,LICK,Item,KINGSROCK
 CallRateSOS = 3
 #-------------------------------
 [KOFFING]
@@ -3064,7 +3064,7 @@ Habitat = RoughTerrain
 Category = Drill
 Pokedex = Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.
 Generation = 1
-Evolutions = RHYPERIOR,TradeItem,PROTECTOR
+Evolutions = RHYPERIOR,TradeItem,PROTECTOR,RHYPERIOR,TradeItem,PROTECTOR
 CallRateSOS = 6
 #-------------------------------
 [CHANSEY]
@@ -3092,7 +3092,7 @@ Category = Egg
 Pokedex = Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those who have lost their appetite.
 Generation = 1
 WildItemCommon = LUCKYPUNCH
-Evolutions = BLISSEY,Happiness,
+Evolutions = BLISSEY,Happiness,,BLISSEY,Item,HEARTSTONE
 SpeciesSOS = CHANSEY,BLISSEY
 CallRateSOS = 9
 #-------------------------------
@@ -3121,7 +3121,7 @@ Habitat = Grassland
 Category = Vine
 Pokedex = Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.
 Generation = 1
-Evolutions = TANGROWTH,HasMove,ANCIENTPOWER
+Evolutions = TANGROWTH,HasMove,ANCIENTPOWER,JUNGELA,HasMove,GLARE
 CallRateSOS = 9
 #-------------------------------
 [KANGASKHAN]
@@ -3206,7 +3206,7 @@ Category = Dragon
 Pokedex = The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
-Evolutions = KINGDRA,TradeItem,DRAGONSCALE
+Evolutions = KINGDRA,TradeItem,DRAGONSCALE,KINGDRA,Item,DRAGONSCALE
 CallRateSOS = 6
 #-------------------------------
 [GOLDEEN]
@@ -3375,7 +3375,7 @@ Habitat = Grassland
 Category = Mantis
 Pokedex = Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.
 Generation = 1
-Evolutions = SCIZOR,TradeItem,METALCOAT,KLEAVOR,Item,BLACKAUGURITE
+Evolutions = SCIZOR,TradeItem,METALCOAT,KLEAVOR,Item,BLACKAUGURITE,SCIZOR,Item,METALCOAT
 CallRateSOS = 3
 #-------------------------------
 [JYNX]
@@ -3428,7 +3428,7 @@ Category = Electric
 Pokedex = When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz as lightning rods.
 Generation = 1
 WildItemUncommon = ELECTIRIZER
-Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER,ELECTIVIRE,Item,ELECTRIZER
 CallRateSOS = 6
 #-------------------------------
 [MAGMAR]
@@ -3456,7 +3456,7 @@ Category = Spitfire
 Pokedex = In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees.
 Generation = 1
 WildItemUncommon = MAGMARIZER
-Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions = MAGMORTAR,TradeItem,MAGMARIZER,MAGMORTAR,Item,MAGMARIZER
 CallRateSOS = 6
 #-------------------------------
 [PINSIR]
@@ -3485,6 +3485,7 @@ Category = Stag Beetle
 Pokedex = Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.
 Generation = 1
 CallRateSOS = 3
+Evolutions = TRICULES,Item,METALCOAT
 #-------------------------------
 [TAUROS]
 Name = Tauros
@@ -3624,6 +3625,7 @@ Generation = 1
 WildItemCommon = QUICKPOWDER
 WildItemUncommon = METALPOWDER
 CallRateSOS = 9
+Evolutions = MIMMEO,HasInParty,MELTAN
 #-------------------------------
 [EEVEE]
 Name = Eevee
@@ -3650,7 +3652,7 @@ Habitat = Urban
 Category = Evolution
 Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
 Generation = 1
-Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,
+Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,,SECTEON,Item,SHINYSTONE,UMBREON,Item,MOONSTONE,ESPEON,Item,SUNSTONE,SYLVEON,Item,DAWNSTONE
 ConditionalSOS = ESPEON,LandDay,,UMBREON,LandNight,
 CallRateSOS = 9
 #-------------------------------
@@ -3753,7 +3755,7 @@ Habitat = Urban
 Category = Virtual
 Pokedex = It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.
 Generation = 1
-Evolutions = PORYGON2,TradeItem,UPGRADE
+Evolutions = PORYGON2,TradeItem,UPGRADE,PORYGON2,Item,UPGRADE
 #-------------------------------
 [OMANYTE]
 Name = Omanyte
@@ -4687,7 +4689,7 @@ Habitat = Forest
 Category = Tiny Mouse
 Pokedex = It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.
 Generation = 2
-Evolutions = PIKACHU,Happiness,
+Evolutions = PIKACHU,Happiness,,PIKACHU,Item,HEARTSTONE
 Flags = SOSForm_0
 SpeciesSOS = PICHU,PIKACHU,HAPPINY
 CallRateSOS = 15
@@ -4718,7 +4720,7 @@ Category = Star Shape
 Pokedex = On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.
 Generation = 2
 WildItemUncommon = MOONSTONE
-Evolutions = CLEFAIRY,Happiness,
+Evolutions = CLEFAIRY,Happiness,,CLEFAIRY,Item,HEARTSTONE
 SpeciesSOS = CLEFFA,CLEFAIRY,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -4747,7 +4749,7 @@ Habitat = Grassland
 Category = Balloon
 Pokedex = Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.
 Generation = 2
-Evolutions = JIGGLYPUFF,Happiness,
+Evolutions = JIGGLYPUFF,Happiness,,JIGGLYPUFF,Item,HEARTSTONE
 SpeciesSOS = IGGLYBUFF,JIGGLYPUFF,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -4776,7 +4778,7 @@ Habitat = Forest
 Category = Spike Ball
 Pokedex = As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.
 Generation = 2
-Evolutions = TOGETIC,Happiness,
+Evolutions = TOGETIC,Happiness,,TOGETIC,Item,HEARTSTONE
 SpeciesSOS = TOGEPI,TOGETIC,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -5524,7 +5526,7 @@ Habitat = Grassland
 Category = Long Neck
 Pokedex = A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.
 Generation = 2
-Evolutions = FARIGIRAF,HasMove,TWINBEAM
+Evolutions = FARIGIRAF,HasMove,TWINBEAM,BETAGIRAFARIG,HasMove,CRUNCH
 CallRateSOS = 9
 #-------------------------------
 [PINECO]
@@ -5743,7 +5745,7 @@ Category = Balloon
 Pokedex = A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.
 Generation = 2
 WildItemUncommon = POISONBARB
-Evolutions = OVERQWIL,None,
+Evolutions = OVERQWIL,None,,QWILJOY,Item,POISONSTONE
 CallRateSOS = 9
 #-------------------------------
 [SCIZOR]
@@ -6318,6 +6320,7 @@ Habitat = RoughTerrain
 Category = Armor
 Pokedex = A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.
 Generation = 2
+Evolutions = DONPHANEVO,Item,PEATBLOCK
 #-------------------------------
 [PORYGON2]
 Name = Porygon2
@@ -6343,7 +6346,7 @@ Habitat = Urban
 Category = Virtual
 Pokedex = It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.
 Generation = 2
-Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC,PORYGONZ,Item,DUBIOUSDISC,PORYGON3,Item,SECURITYPATCH
 #-------------------------------
 [STANTLER]
 Name = Stantler
@@ -8115,7 +8118,7 @@ Habitat = WatersEdge
 Category = Polka Dot
 Pokedex = Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.
 Generation = 3
-Evolutions = MARILL,Happiness,
+Evolutions = MARILL,Happiness,,MARILL,Item,HEARTSTONE
 SpeciesSOS = AZURILL,MARILL,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -9527,7 +9530,7 @@ Habitat = WatersEdge
 Category = Fish
 Pokedex = Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few trainers raise it.
 Generation = 3
-Evolutions = MILOTIC,TradeItem,PRISMSCALE,MILOTIC,Beauty,170
+Evolutions = MILOTIC,TradeItem,PRISMSCALE,MILOTIC,Beauty,170,MILOTIC,Item,PRISMSCALE
 CallRateSOS = 9
 #-------------------------------
 [MILOTIC]
@@ -9721,7 +9724,7 @@ Category = Beckon
 Pokedex = It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.
 Generation = 3
 WildItemUncommon = SPELLTAG
-Evolutions = DUSKNOIR,TradeItem,REAPERCLOTH
+Evolutions = DUSKNOIR,TradeItem,REAPERCLOTH,DUSKNOIR,Item,REAPERCLOTH
 CallRateSOS = 6
 #-------------------------------
 [TROPIUS]
@@ -9993,7 +9996,7 @@ Pokedex = A Clamperl slams its shell closed on prey to prevent escape. The pearl
 Generation = 3
 WildItemCommon = PEARL
 WildItemUncommon = BIGPEARL
-Evolutions = HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE
+Evolutions = HUNTAIL,TradeItem,DEEPSEATOOTH,GOREBYSS,TradeItem,DEEPSEASCALE,HUNTAIL,Item,DEEPSEATOOTH,GOREBYSS,Item,DEEPSEASCALE
 ConditionalSOS = HUNTAIL,WaterNight,,GOREBYSS,WaterDay,
 CallRateSOS = 15
 #-------------------------------
@@ -11057,7 +11060,7 @@ Category = Bud
 Pokedex = Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.
 Generation = 4
 WildItemUncommon = POISONBARB
-Evolutions = ROSELIA,HappinessDay,
+Evolutions = ROSELIA,HappinessDay,;ROSELIA,Item,HEARTSTONE
 SpeciesSOS = BUDEW,ROSELIA,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -11630,7 +11633,7 @@ Habitat = Grassland
 Category = Rabbit
 Pokedex = It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.
 Generation = 4
-Evolutions = LOPUNNY,Happiness,
+Evolutions = LOPUNNY,Happiness,,LOPUNNY,Item,HEARTSTONE
 ConditionalSOS = LOPUNNY,LandDay,
 CallRateSOS = 9
 #-------------------------------
@@ -11791,7 +11794,7 @@ Category = Bell
 Pokedex = It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.
 Generation = 4
 WildItemUncommon = CLEANSETAG
-Evolutions = CHIMECHO,HappinessNight,
+Evolutions = CHIMECHO,HappinessNight,CHIMECHO,ItemNight,HEARTSTONE
 SpeciesSOS = CHINGLING,CHIMECHO,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -12156,7 +12159,7 @@ Generation = 4
 WildItemCommon = LEFTOVERS
 WildItemUncommon = LEFTOVERS
 WildItemRare = LEFTOVERS
-Evolutions = SNORLAX,Happiness,
+Evolutions = SNORLAX,Happiness,,SNORLAX,Item,HEARTSTONE
 SpeciesSOS = MUNCHLAX,SNORLAX,HAPPINY
 CallRateSOS = 6
 #-------------------------------
@@ -12185,7 +12188,7 @@ Habitat = Mountain
 Category = Emanation
 Pokedex = The aura that emanates from its body intensifies to alert others if it is afraid or sad.
 Generation = 4
-Evolutions = LUCARIO,HappinessDay,
+Evolutions = LUCARIO,HappinessDay,,LUCARIO,Item,HEARTSTONE
 SpeciesSOS = RIOLU,LUCARIO,HAPPINY
 CallRateSOS = 15
 #-------------------------------
@@ -14249,7 +14252,7 @@ Pokedex = Because its energy was too great to be contained, the energy leaked an
 Generation = 5
 WildItemCommon = EVERSTONE
 WildItemUncommon = HARDSTONE
-Evolutions = GIGALITH,Trade,
+Evolutions = GIGALITH,Trade,,GIGALITH,Item,LINKINGCORD
 CallRateSOS = 6
 #-------------------------------
 [GIGALITH]
@@ -14304,7 +14307,7 @@ Habitat = Cave
 Category = Bat
 Pokedex = Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.
 Generation = 5
-Evolutions = SWOOBAT,Happiness,
+Evolutions = SWOOBAT,Happiness,,SWOOBAT,Item,HEARTSTONE
 CallRateSOS = 9
 #-------------------------------
 [SWOOBAT]
@@ -14467,7 +14470,7 @@ Habitat = Urban
 Category = Muscular
 Pokedex = They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.
 Generation = 5
-Evolutions = CONKELDURR,Trade,
+Evolutions = CONKELDURR,Trade,,CONKELDURR,Item,LINKINGCORD
 CallRateSOS = 6
 #-------------------------------
 [CONKELDURR]
@@ -14685,7 +14688,7 @@ Category = Leaf-Wrapped
 Pokedex = It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.
 Generation = 5
 WildItemUncommon = MENTALHERB
-Evolutions = LEAVANNY,Happiness,
+Evolutions = LEAVANNY,Happiness,,LEAVANNY,Item,HEARTSTONE
 CallRateSOS = 6
 #-------------------------------
 [LEAVANNY]
@@ -15968,7 +15971,7 @@ Habitat = Forest
 Category = Clamping
 Pokedex = When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.
 Generation = 5
-Evolutions = ESCAVALIER,TradeSpecies,SHELMET
+Evolutions = ESCAVALIER,TradeSpecies,SHELMET,ESCAVALIER,HasInParty,SHELMET
 SpeciesSOS = KARRABLAST,SHELMET
 CallRateSOS = 9
 #-------------------------------
@@ -16722,7 +16725,7 @@ Habitat = Forest
 Category = Snail
 Pokedex = It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.
 Generation = 5
-Evolutions = ACCELGOR,TradeSpecies,KARRABLAST
+Evolutions = ACCELGOR,TradeSpecies,KARRABLAST,ACCELGOR,HasInParty,KARRABLAST
 SpeciesSOS = SHELMET,KARRABLAST
 CallRateSOS = 9
 #-------------------------------
@@ -18495,7 +18498,7 @@ Habitat = Forest
 Category = Perfume
 Pokedex = It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.
 Generation = 6
-Evolutions = AROMATISSE,TradeItem,SACHET
+Evolutions = AROMATISSE,TradeItem,SACHET,AROMATISSE,Item,SACHET
 CallRateSOS = 9
 #-------------------------------
 [AROMATISSE]
@@ -18548,7 +18551,7 @@ Habitat = Urban
 Category = Cotton Candy
 Pokedex = To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.
 Generation = 6
-Evolutions = SLURPUFF,TradeItem,WHIPPEDDREAM
+Evolutions = SLURPUFF,TradeItem,WHIPPEDDREAM,SLURPUFF,Item,WHIPPEDDREAM
 CallRateSOS = 9
 #-------------------------------
 [SLURPUFF]
@@ -19190,7 +19193,7 @@ Habitat = Forest
 Category = Stump
 Pokedex = These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.
 Generation = 6
-Evolutions = TREVENANT,Trade,
+Evolutions = TREVENANT,Trade,,TREVENANT,Item,LINKINGCORD
 CallRateSOS = 9
 #-------------------------------
 [TREVENANT]
@@ -19244,7 +19247,7 @@ Category = Pumpkin
 Pokedex = When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults.
 Generation = 6
 Flags = InheritFormFromMother
-Evolutions = GOURGEIST,Trade,
+Evolutions = GOURGEIST,Trade,,GOURGEIST,Item,LINKINGCORD
 CallRateSOS = 9
 #-------------------------------
 [GOURGEIST]
@@ -20926,7 +20929,7 @@ Category = Synthetic
 Pokedex = The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.
 Generation = 7
 Flags = Legendary
-Evolutions = SILVALLY,Happiness,
+Evolutions = SILVALLY,Happiness,,SILVALLY,Item,HEARTSTONE
 #-------------------------------
 [SILVALLY]
 Name = Silvally
@@ -23577,7 +23580,7 @@ Category = Worm
 Pokedex = It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.
 Generation = 8
 WildItemUncommon = SNOWBALL
-Evolutions = FROSMOTH,HappinessNight,
+Evolutions = FROSMOTH,HappinessNight,,FROSMOTH,Item,HEARTSTONE
 CallRateSOS = 15
 #-------------------------------
 [FROSMOTH]
